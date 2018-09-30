@@ -1,6 +1,8 @@
 ---
-title: wimir
+title: WiMIR
+permalink: /wimir/
 ---
+
 
 ## Women in Music Information Retrieval (WiMIR)
 

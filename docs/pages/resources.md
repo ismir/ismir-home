@@ -1,5 +1,6 @@
 ---
 title: Resources
+permalink: /resources/
 ---
 
 ## Resources

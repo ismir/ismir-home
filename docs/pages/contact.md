@@ -1,3 +1,8 @@
+---
+title: Contact
+permalink: /contact/
+---
+
 ## Contact Us
 
 * Community announcements and questions: [community@ismir.net](mailto:community@ismir.net)

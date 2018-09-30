@@ -1,5 +1,6 @@
 ---
-title: home
+title: ISMIR Homepage
+permalink: /
 ---
 
 ## Upcoming Conferences

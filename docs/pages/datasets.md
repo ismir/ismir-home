@@ -1,5 +1,6 @@
 ---
 title: Datasets
+permalink: /resources/datasets/
 ---
 
 ## Datasets

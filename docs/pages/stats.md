@@ -1,3 +1,7 @@
+---
+title: Conference Stats
+permalink: /stats/
+---
 
 ## ISMIR Paper and Membership Statistics
 
@@ -13,9 +17,9 @@ of the ISMIR Conference.
 
 ### ISMIR over the years
 
-![conference stats](/ismir-home/images/conference_stats.png)
+![conference stats]({{site.url}}/images/conference_stats.png)
 
-![membership stats](/ismir-home/images/membership_stats.png)
+![membership stats]({{site.url}}/images/membership_stats.png)
 
 ### Impact
 

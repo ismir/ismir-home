@@ -1,5 +1,6 @@
 ---
 title: MIR Software
+permalink: /resources/software-tools/
 ---
 
 ## MIR Software

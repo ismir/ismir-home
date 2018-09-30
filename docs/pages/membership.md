@@ -1,5 +1,6 @@
 ---
 title: Membership
+permalink: /membership/
 ---
 
 ## Membership

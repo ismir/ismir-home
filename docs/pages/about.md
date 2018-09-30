@@ -1,5 +1,6 @@
 ---
 title: About the Society
+permalink: /about/
 ---
 
 ## About the Society

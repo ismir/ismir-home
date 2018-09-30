@@ -1,5 +1,6 @@
 ---
 title: Conferences
+permalink: /conferences/
 ---
 
 ## Philosophy
