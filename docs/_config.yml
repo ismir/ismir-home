@@ -1,0 +1,39 @@
+theme: jekyll-theme-minimal
+
+title: ISMIR
+description: Homepage of the International Society for Music Information Retrieval
+authors: ISMIR Society
+
+menu:
+  conferences:
+    url: /pages/conferences
+    title: Conferences
+  proceedings:
+    url: /pages/proceedings
+    title: Proceedings
+  resources:
+    url: /pages/resources
+    title: Resources
+  stats:
+    url: /pages/stats
+    title: Community Statistics
+  wimir:
+    url: /pages/wimir
+    title: Women in MIR
+  tismir:
+    url: http://transactions.ismir.net/
+    title: Transactions of ISMIR
+  about:
+    url: /pages/about
+    title: About the Society
+  membership:
+    url: /pages/membership
+    title: Membership
+  contact:
+    url: /pages/contact
+    title: Contact
+
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
