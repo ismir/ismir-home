@@ -13,9 +13,9 @@ of the ISMIR Conference.
 
 ### ISMIR over the years
 
-![conference stats](/images/conference_stats.png)
+![conference stats](/ismir-home/images/conference_stats.png)
 
-![membership stats](/images/membership_stats.png)
+![membership stats](/ismir-home/images/membership_stats.png)
 
 ### Impact
 

@@ -52,5 +52,3 @@ Between conferences, there are multiple ways to stay involved!
 * [Join the conversation on Slack](https://slackpass.io/mircommunity)
     Slack is a new way to chat and to gather a community. There are currently more than 400
     people on the Music Information Retrieval Slack's channel, come join the discussion.
-
-{ footer.html }
