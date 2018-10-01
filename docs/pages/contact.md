@@ -13,9 +13,9 @@ permalink: /contact/
 
 ## Notice something wrong? Want to help?
 
-Good news! This website is maintained on [GitHub](https://github.com/ismir/ismir_web)!
+Good news! This website is maintained on [GitHub](https://github.com/ismir/ismir-home)!
 
 If you find any mistakes or missing information, please add to the backlog
-of [issues](https://github.com/ismir/ismir_web/issues). Or, if you're feeling
+of [issues](https://github.com/ismir/ismir-home/issues). Or, if you're feeling
 particularly ambitious and would like to help, we gladly welcome
-[pull requests](https://github.com/ismir/ismir_web/pulls) and contributions!
+[pull requests](https://github.com/ismir/ismir-home/pulls) and contributions!
