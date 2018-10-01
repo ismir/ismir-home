@@ -18,3 +18,4 @@ Therefore, if something should (or shouldn't) be here, please submit a
 * [Reproducible Research]({{site.base_url}}/resources/reproducible)
 * [Research Centers]({{site.base_url}}/resources/research-centers)
 * [Software Tools]({{site.base_url}}/resources/software-tools)
+* [Tutorials]({{site.base_url}}/resources/tutorials)
