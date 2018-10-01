@@ -6,33 +6,32 @@ authors: ISMIR Society
 
 menu:
   conferences:
-    url: conferences
+    url: /conferences
     title: Conferences
   proceedings:
-    url: proceedings
+    url: /proceedings
     title: Proceedings
   resources:
-    url: resources
+    url: /resources
     title: Resources
   stats:
-    url: stats
+    url: /stats
     title: Community Statistics
   wimir:
-    url: wimir
+    url: /wimir
     title: Women in MIR
   tismir:
     url: http://transactions.ismir.net/
     title: Transactions of ISMIR
   about:
-    url: about
+    url: /about
     title: About the Society
   membership:
-    url: membership
+    url: /membership
     title: Membership
   contact:
-    url: contact
+    url: /contact
     title: Contact
-
 
 exclude:
   - Gemfile

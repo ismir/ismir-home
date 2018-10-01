@@ -35,7 +35,7 @@ meeting may be accessed at [this link](https://docs.google.com/presentation/d/1P
 
 Between conferences, there are multiple ways to stay involved!
 
- * [Become an official member of the Society](membership.html)
+ * [Become an official member of the Society](/membership)
     As a non-profit organization, members are eligible to receive discounted
     registration at conferences and voting rights at the annual business meeting.
 
