@@ -3,9 +3,7 @@ title: Datasets
 permalink: /resources/datasets/
 ---
 
-[back to resources]({{site.base_url}}/resources)
-
-## Datasets
+## [Resources]({{site.base_url}}/resources) / Datasets
 
 The list of datasets presented here is not yet exhaustive; in the meantime, please
 refer to [Alexander Lerch's blog](http://www.audiocontentanalysis.org/data-sets/)
