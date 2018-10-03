@@ -2,7 +2,7 @@
 title: ISMIR 2016
 ---
 
-## [Conferences]({site.base_url}/conferences) / ISMIR 2016
+## [Conferences]({{site.base_url}}/conferences) / ISMIR 2016
 
 * **Best paper**: Ryan Groves. [Automatic Melodic Reduction Using a Supervised Probabilistic Context-Free Grammar](http://dblp.uni-trier.de/rec/html/conf/ismir/Groves16).
 * **Best student paper**: Maria Panteli, Emmanouil Benetos and Simon Dixon. [Learning a Feature Space for Similarity in World Music](http://dblp.uni-trier.de/rec/html/conf/ismir/PanteliBD16).

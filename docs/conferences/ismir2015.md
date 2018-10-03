@@ -2,7 +2,7 @@
 title: ISMIR 2015
 ---
 
-## [Conferences]({site.base_url}/conferences) / ISMIR 2015
+## [Conferences]({{site.base_url}}/conferences) / ISMIR 2015
 
 * **Best paper**: Andreas Arzt and Gerhard Widmer. [Real-time Music Tracking using Multiple Performances as a Reference](http://dblp.uni-trier.de/rec/html/conf/ismir/ArztW15).
 * **Best student paper**: Colin Raffel and Daniel Ellis. [Large-Scale Content-Based Matching of MIDI and Audio Files](http://dblp.uni-trier.de/rec/html/conf/ismir/RaffelE15).

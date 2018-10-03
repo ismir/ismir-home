@@ -2,7 +2,7 @@
 title: ISMIR 2008
 ---
 
-## [Conferences]({site.base_url}/conferences) / ISMIR 2008
+## [Conferences]({{site.base_url}}/conferences) / ISMIR 2008
 
 * **Best student paper**: P.-A. Manzagol, T. Bertin-Mahieux, and D. Eck. [On the use of sparse time relative auditory codes for music](http://dblp.uni-trier.de/rec/html/conf/ismir/ManzagolBE08).
 

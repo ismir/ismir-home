@@ -2,7 +2,7 @@
 title: ISMIR 2006
 ---
 
-## [Conferences]({site.base_url}/conferences) / ISMIR 2006
+## [Conferences]({{site.base_url}}/conferences) / ISMIR 2006
 
 * **Best paper**: McKay, C., D. McEnnis, and I. Fujinaga. 2006. [A large publicly accessible prototype audio database for music research](http://dblp.uni-trier.de/rec/html/conf/ismir/McKayMF06).
 
