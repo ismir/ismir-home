@@ -5,10 +5,10 @@ permalink: /
 
 ## Upcoming Conferences
 
-Now welcoming bids for 2021!
-
 * ISMIR 2019, Delft, The Netherlands
 * ISMIR 2020, Montreal, Canada
+
+**We are [welcoming bids]({{site.base_url}}/pdfs/Call4Hosting-ISMIR-0.8.pdf) for 2021!**
 
 
 ## Transactions of the ISMIR
