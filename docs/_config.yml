@@ -5,13 +5,12 @@ description: Homepage of the International Society for Music Information Retriev
 authors: ISMIR Society
 base_url: /ismir-home
 
+include: ['proceedings']
+
 menu:
   conferences:
     url: /conferences
     title: Conferences
-  proceedings:
-    url: /proceedings
-    title: Proceedings
   resources:
     url: /resources
     title: Resources
