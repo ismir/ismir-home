@@ -7,7 +7,7 @@ permalink: /resources/related
 
 The audio related conferences and journals presented here are non-exhaustive, sorted by alphabetical order. Please refer to [SMC Network](http://smcnetwork.org/resources/conferences) for an exhaustive list.
 
-If you would like to add a Journal or a conference please create a [pull request](https://github.com/ismir/ismir_web/issues). For new authors in the field or junior researchers, be aware that predatory journals exist and to carefully consider the integrity of new resources:
+If you would like to add a journal or a conference, please create a [pull request](https://github.com/ismir/ismir_web/pulls). For new authors in the field or junior researchers, be aware that predatory journals exist and to carefully consider the integrity of new resources:
 
 * [Nature recommendations](http://www.nature.com/news/predatory-journals-recruit-fake-editor-1.21662)
 * [Beall's List of Predatory Journals and Publishers](http://beallslist.weebly.com/standalone-journals.html)
