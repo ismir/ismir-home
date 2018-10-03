@@ -2,7 +2,7 @@
 title: ISMIR 2005
 ---
 
-## [Conferences](/conferences) / ISMIR 2005
+## [Conferences]({site.base_url}/conferences) / ISMIR 2005
 
 **Best poster presentation**: S. Dixon and G. Widmer. [MATCH: A Music Alignment Tool Chest](http://dblp.uni-trier.de/rec/html/conf/ismir/DixonW05).
 

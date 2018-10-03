@@ -2,7 +2,7 @@
 title: ISMIR 2010
 ---
 
-## [Conferences](/conferences) / ISMIR 2010
+## [Conferences]({site.base_url}/conferences) / ISMIR 2010
 
 * **Best paper**: Ron Weiss and Juan Bello. [Identifying Repeated Patterns in Music Using Sparse Convolutive Non-Negative Matrix Factorization](http://dblp.uni-trier.de/rec/html/conf/ismir/WeissB10).
 * **Best student paper**: Hussein Hirjee and Daniel G. Brown. [Solving Misheard Lyric Search Queries Using a Probabilistic Model of Speech Sounds](http://dblp.uni-trier.de/rec/html/conf/ismir/HirjeeB10).

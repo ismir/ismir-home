@@ -2,7 +2,7 @@
 title: ISMIR 2012
 ---
 
-## [Conferences](/conferences) / ISMIR 2012
+## [Conferences]({site.base_url}/conferences) / ISMIR 2012
 
 * **Best paper**: Arthur Flexer, Dominik Schnitzer, and Jan Schlüter: [A MIREX meta-analysis of hubness in audio music similarity](http://dblp.uni-trier.de/rec/html/conf/ismir/FlexerSS12).
 * **Best student paper**: Véronique Sébastien, Henri Ralambondrainy, Olivier Sébastien, and Noël Conruyt. [Score Analyzer: Automatically Determining Scores Difficulty Level for Instrumental e-Learning](http://dblp.uni-trier.de/rec/html/conf/ismir/SebastienRSC12).

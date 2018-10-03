@@ -2,7 +2,7 @@
 title: ISMIR 2014
 ---
 
-## [Conferences](/conferences) / ISMIR 2014
+## [Conferences]({site.base_url}/conferences) / ISMIR 2014
 
 * **Best paper**: Zhe Xing, Xinxi Wang, and Ye Wang. [Enhancing Collaborative Filtering Music Recommendation by Balancing Exploration and Exploitation](http://dblp.uni-trier.de/rec/html/conf/ismir/XingWW14).
 * **Best student paper**: Joshua Moore, Thorsten Joachims, and Douglas Turnbull. [Taste Space Versus the World: an Embedding Analysis of Listening Habits and Geography](http://dblp.uni-trier.de/rec/html/conf/ismir/MooreJT14).

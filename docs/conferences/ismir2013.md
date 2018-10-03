@@ -2,7 +2,7 @@
 title: ISMIR 2013
 ---
 
-## [Conferences](/conferences) / ISMIR 2013
+## [Conferences]({site.base_url}/conferences) / ISMIR 2013
 
 * **Best paper**: Same as Best Student Paper award
 * **Best student paper**:

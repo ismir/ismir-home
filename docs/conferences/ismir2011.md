@@ -2,7 +2,7 @@
 title: ISMIR 2011
 ---
 
-## [Conferences](/conferences) / ISMIR 2011
+## [Conferences]({site.base_url}/conferences) / ISMIR 2011
 
 * **Best paper**: Meinard Müller, Peter Grosche, and Nanzhu Jiang. [A Segment-Based Fitness Measure for Capturing Repetitive Structures of Music Recordings](http://dblp.uni-trier.de/rec/html/conf/ismir/MullerGJ11).
 * **Best student paper**: Mikael Henaff, Kevin Jarrett, Koray Kavukcuoglu, and Yann LeCun. [Unsupervised Learning of Sparse Features for Scalable Audio Classification](http://dblp.uni-trier.de/rec/html/conf/ismir/HenaffJKL11).
