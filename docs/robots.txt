@@ -5,3 +5,5 @@
 # Maybe allow google crawling?
 User-agent: Googlebot
 Allow: /
+
+sitemap: https://ismir.github.io/ismir-home/sitemap.xml
