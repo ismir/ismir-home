@@ -36,3 +36,6 @@ menu:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+plugins:
+  - jekyll-sitemap
