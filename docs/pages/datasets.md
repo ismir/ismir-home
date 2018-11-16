@@ -3,7 +3,7 @@ title: Datasets
 permalink: /resources/datasets/
 ---
 
-## [Resources]({{site.base_url}}/resources) / Datasets
+## [Resources]({{relative_url}}/resources) / Datasets
 
 The list of datasets presented here pulls from the [mir-datasets](https://github.com/ismir/mir-datasets) repository; if you'd like to add a dataset, create an issue / pull request there and the changes will propogate here.
 

@@ -3,7 +3,7 @@ title: Reproducibility
 permalink: /resources/reproducible
 ---
 
-## [Resources]({{site.base_url}}/resources) / Reproducibility
+## [Resources]({{relative_url}}/resources) / Reproducibility
 
 If you would like to add a resource please leave a ticket on [GitHub](https://github.com/ismir/ismir_web/issues).
 

@@ -3,7 +3,6 @@ theme: jekyll-theme-minimal
 title: ISMIR
 description: Homepage of the International Society for Music Information Retrieval
 authors: ISMIR Society
-base_url: /ismir-home
 
 include: ['proceedings']
 

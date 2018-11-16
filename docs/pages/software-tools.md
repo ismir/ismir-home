@@ -3,7 +3,7 @@ title: MIR Software
 permalink: /resources/software-tools/
 ---
 
-## [Resources]({{site.base_url}}/resources) / MIR Software
+## [Resources]({{relative_url}}/resources) / MIR Software
 
 The software are presented alphabetically. Additionally to the list of software tools presented below, here is an evaluation of eight feature extraction toolboxes from [Moffat _et al._ (2015)](https://www.researchgate.net/publication/282858086_An_Evaluation_of_Audio_Feature_Extraction_Toolboxes).
 

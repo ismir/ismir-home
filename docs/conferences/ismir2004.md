@@ -2,7 +2,7 @@
 title: ISMIR 2004
 ---
 
-## [Conferences]({{site.base_url}}/conferences) / ISMIR 2004
+## [Conferences]({{relative_url}}/conferences) / ISMIR 2004
 
 | Papers |
 | --- |

@@ -3,7 +3,7 @@ title: Research Centers
 permalink: /resources/research-centers/
 ---
 
-## [Resources]({{site.base_url}}/resources) / Research Centers
+## [Resources]({{relative_url}}/resources) / Research Centers
 
 The laboratories are sorted by alphabetical order of their country code.
 

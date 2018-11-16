@@ -8,7 +8,7 @@ permalink: /
 * ISMIR 2019, Delft, The Netherlands
 * ISMIR 2020, Montreal, Canada
 
-**We are [welcoming bids]({{site.base_url}}/pdfs/Call4Hosting-ISMIR-0.8.pdf) for 2021!**
+**We are [welcoming bids]({{relative_url}}/pdfs/Call4Hosting-ISMIR-0.8.pdf) for 2021!**
 
 
 ## Transactions of the ISMIR
@@ -35,7 +35,7 @@ meeting may be accessed at [this link](https://docs.google.com/presentation/d/1P
 
 Between conferences, there are multiple ways to stay involved!
 
- * [Become an official member of the Society]({{site.base_url}}/membership)
+ * [Become an official member of the Society]({{relative_url}}/membership)
     As a non-profit organization, members are eligible to receive discounted
     registration at conferences and voting rights at the annual business meeting.
 

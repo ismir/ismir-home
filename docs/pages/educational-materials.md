@@ -3,7 +3,7 @@ title: Educational Materials
 permalink: /resources/educational-materials
 ---
 
-## [Resources]({{site.base_url}}/resources) / Educational Materials
+## [Resources]({{relative_url}}/resources) / Educational Materials
 
 The resources are sorted by decreasing year of publication. If you would like to add a resource, please create a [pull request](https://github.com/ismir/ismir_web/pulls).
 

@@ -3,7 +3,7 @@ title: Proceedings
 permalink: /resources/related
 ---
 
-## [Resources]({{site.base_url}}/resources) / Related Communities
+## [Resources]({{relative_url}}/resources) / Related Communities
 
 The audio related conferences and journals presented here are non-exhaustive, sorted by alphabetical order. Please refer to [SMC Network](http://smcnetwork.org/resources/conferences) for an exhaustive list.
 

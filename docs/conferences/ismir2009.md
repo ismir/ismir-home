@@ -2,7 +2,7 @@
 title: ISMIR 2009
 ---
 
-## [Conferences]({{site.base_url}}/conferences) / ISMIR 2009
+## [Conferences]({{relative_url}}/conferences) / ISMIR 2009
 
 * **Best paper**: Heittola, T., Klapuri, A., and Virtanen, T. [Musical Instrument Recognition in Polyphonic Audio Using Source-Filter Model for Sound Separation](http://dblp.uni-trier.de/rec/html/conf/ismir/HeittolaKV09).
 * **Best student paper**: Matthew D. Hoffman, David M. Blei, and Perry R. Cook. [Easy as CBA: A Simple Probabilistic Model for Tagging Music](http://dblp.uni-trier.de/rec/html/conf/ismir/HoffmanBC09).

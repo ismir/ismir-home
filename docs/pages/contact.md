@@ -8,7 +8,6 @@ permalink: /contact/
 * Community announcements and questions: [community@ismir.net](mailto:community@ismir.net)
 * Technical support with the website: [webmaster@ismir.net](mailto:webmaster@ismir.net)
 * ISMIR Board: [board@ismir.net](mailto:board@ismir.net)
-* ISMIR 2016: [ismir2016@ismir.net](mailto:ismir2016@ismir.net)
 
 
 ## Notice something wrong? Want to help?

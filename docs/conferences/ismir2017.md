@@ -2,7 +2,7 @@
 title: ISMIR 2017
 ---
 
-## [Conferences]({{site.base_url}}/conferences) / ISMIR 2017
+## [Conferences]({{relative_url}}/conferences) / ISMIR 2017
 
 * **Best paper**: Keunwoo Choi, György Fazekas, Mark Sandler, and Kyunghyun Cho. [Transfer Learning for Music Classification and Regression Tasks](http://dblp.uni-trier.de/rec/html/conf/ismir/ChoiFSC17).
 * **Best student paper**: Rachel Bittner, Brian McFee, Justin Salamon, Peter Li, and Juan P. Bello. [Deep Salience Representations for F0 Estimation in Polyphonic Music](http://dblp.uni-trier.de/rec/html/conf/ismir/BittnerMSLB17).

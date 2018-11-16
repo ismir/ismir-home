@@ -35,17 +35,17 @@ ISMIR was incorporated in Canada on July 4, 2008. It was previously run by a Ste
 
 ### Organizing Documents
 
-* [Conference Hosting Proposal Guide]({{site.base_url}}/pdfs/Call4Hosting-ISMIR-0.8.pdf)
-* [Letters Patent]({{site.base_url}}/pdfs/ISMIR-Letters-Patent.pdf)
-* [By-Laws]({{site.base_url}}/pdfs/ISMIR-Bylaws.pdf)
+* [Conference Hosting Proposal Guide]({{relative_url}}/pdfs/Call4Hosting-ISMIR-0.8.pdf)
+* [Letters Patent]({{relative_url}}/pdfs/ISMIR-Letters-Patent.pdf)
+* [By-Laws]({{relative_url}}/pdfs/ISMIR-Bylaws.pdf)
 
 
 ### Past Business Meeting Presentations
 
-* [ISMIR2017]({{site.base_url}}/pdfs/2017_business_meeting.pdf)
-* [ISMIR2016]({{site.base_url}}/pdfs/2016_business_meeting.pdf)
-* [ISMIR2015]({{site.base_url}}/pdfs/2015_business_meeting.pdf)
-* [ISMIR2014]({{site.base_url}}/pdfs/2014_business_meeting.pdf)
+* [ISMIR2017]({{relative_url}}/pdfs/2017_business_meeting.pdf)
+* [ISMIR2016]({{relative_url}}/pdfs/2016_business_meeting.pdf)
+* [ISMIR2015]({{relative_url}}/pdfs/2015_business_meeting.pdf)
+* [ISMIR2014]({{relative_url}}/pdfs/2014_business_meeting.pdf)
 
 
 ### Officers (2018-2019)
