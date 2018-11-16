@@ -38,3 +38,7 @@ exclude:
 
 plugins:
   - jekyll-sitemap
+
+webserver_headers:
+  "Access-Control-Allow-Origin": "*"
+  # "Server": "CustomServerName"
