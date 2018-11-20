@@ -9,4 +9,4 @@ The list of datasets presented here pulls from the [mir-datasets](https://github
 
 The community owes a huge thanks to the hard work of Alexander Lerch in compiling and maintaining this [list of datasets](http://www.audiocontentanalysis.org/data-sets/).
 
-<script src="http://localhost:4000/assets/js/mir-datasets.js"></script>
+<script src="https://ismir.github.io/mir-datasets/assets/js/mir-datasets.js"></script>
