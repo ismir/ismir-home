@@ -24,6 +24,7 @@ the conference.
 
 | Conference | Location | Proceedings |
 | ---------- | --------- | --------- |
+| [ISMIR 2018](https://ismir2018.ismir.net/) | 23-27 September 2018, Paris (France) | [Proceedings]({{site.base_url}}/conferences/ismir2018) |
 | [ISMIR 2017](https://ismir2017.ismir.net/) | 23-27 October 2017, Suzhou (China) | [Proceedings]({{site.base_url}}/conferences/ismir2017) |
 | [ISMIR 2016](https://ismir2016.ismir.net/) | 7-11 August 2016, New York City (USA) | [Proceedings]({{site.base_url}}/conferences/ismir2016) |
 | [ISMIR 2015](https://ismir2015.ismir.net/) | 26-30 October 2015, Malaga (Spain) | [Proceedings]({{site.base_url}}/conferences/ismir2015) |
