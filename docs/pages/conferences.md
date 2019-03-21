@@ -24,23 +24,23 @@ the conference.
 
 | Conference | Location | Proceedings |
 | ---------- | --------- | --------- |
-| [ISMIR 2018](https://ismir2018.ismir.net/) | 23-27 September 2018, Paris (France) | [Proceedings]({{site.base_url}}/conferences/ismir2018) |
-| [ISMIR 2017](https://ismir2017.ismir.net/) | 23-27 October 2017, Suzhou (China) | [Proceedings]({{site.base_url}}/conferences/ismir2017) |
-| [ISMIR 2016](https://ismir2016.ismir.net/) | 7-11 August 2016, New York City (USA) | [Proceedings]({{site.base_url}}/conferences/ismir2016) |
-| [ISMIR 2015](https://ismir2015.ismir.net/) | 26-30 October 2015, Malaga (Spain) | [Proceedings]({{site.base_url}}/conferences/ismir2015) |
-| [ISMIR 2014](https://ismir2014.ismir.net/) | 27-31 October 2014, Taipei (Taiwan) | [Proceedings]({{site.base_url}}/conferences/ismir2014) |
-| [ISMIR 2013](https://ismir2013.ismir.net/) | 4-8 November 2013, Curitiba (Brazil) | [Proceedings]({{site.base_url}}/conferences/ismir2013) |
-| [ISMIR 2012](https://ismir2012.ismir.net/) | 8-12 October 2012, Porto (Portugal) | [Proceedings]({{site.base_url}}/conferences/ismir2012) |
-| [ISMIR 2011](https://ismir2011.ismir.net/) | 24-28 October 2011, Miami (USA) | [Proceedings]({{site.base_url}}/conferences/ismir2011) |
-| [ISMIR 2010](https://ismir2010.ismir.net/) | 9-13 August, 2010, Utrecht (Netherlands) | [Proceedings]({{site.base_url}}/conferences/ismir2010) |
-| [ISMIR 2009](https://ismir2009.ismir.net/) | 26-30 October 2009, Kobe (Japan) | [Proceedings]({{site.base_url}}/conferences/ismir2009) |
-| [ISMIR 2008](https://ismir2008.ismir.net/) | 14-18 September 2008, Philadelphia (USA) | [Proceedings]({{site.base_url}}/conferences/ismir2008) |
-| [ISMIR 2007](https://ismir2007.ismir.net/) | 23-30 September 2007, Vienna (Austria) | [Proceedings]({{site.base_url}}/conferences/ismir2007) |
-| [ISMIR 2006](https://ismir2006.ismir.net/) | 8-12 October 2006, Victoria, BC (Canada) | [Proceedings]({{site.base_url}}/conferences/ismir2006) |
-| [ISMIR 2005](https://ismir2005.ismir.net/) | 11-15 September 2005, London (UK) | [Proceedings]({{site.base_url}}/conferences/ismir2005) |
-| [ISMIR 2004](https://ismir2004.ismir.net/) | 10-15 October 2004, Barcelona (Spain) | [Proceedings]({{site.base_url}}/conferences/ismir2004) |
-| [ISMIR 2003](https://ismir2003.ismir.net/) | 26-30 October 2003, Baltimore, Maryland (USA) | [Proceedings]({{site.base_url}}/conferences/ismir2003) |
-| [ISMIR 2002](https://ismir2002.ismir.net/) | 13-17 October 2002, Paris (France) | [Proceedings]({{site.base_url}}/conferences/ismir2002) |
-| [ISMIR 2001](https://ismir2001.ismir.net/) | 15-17 October 2001, Bloomington, Indiana (USA) | [Proceedings]({{site.base_url}}/conferences/ismir2001) |
-| [ISMIR 2000](https://ismir2000.ismir.net/) | 23-25 October 2000, Plymouth, Massachusetts (USA) | [Proceedings]({{site.base_url}}/conferences/ismir2000) |
+| [ISMIR 2018](https://ismir2018.{{site.domain}}/) | 23-27 September 2018, Paris (France) | [Proceedings]({{site.base_url}}/conferences/ismir2018) |
+| [ISMIR 2017](https://ismir2017.{{site.domain}}/) | 23-27 October 2017, Suzhou (China) | [Proceedings]({{site.base_url}}/conferences/ismir2017) |
+| [ISMIR 2016](https://ismir2016.{{site.domain}}/) | 7-11 August 2016, New York City (USA) | [Proceedings]({{site.base_url}}/conferences/ismir2016) |
+| [ISMIR 2015](https://ismir2015.{{site.domain}}/) | 26-30 October 2015, Malaga (Spain) | [Proceedings]({{site.base_url}}/conferences/ismir2015) |
+| [ISMIR 2014](https://ismir2014.{{site.domain}}/) | 27-31 October 2014, Taipei (Taiwan) | [Proceedings]({{site.base_url}}/conferences/ismir2014) |
+| [ISMIR 2013](https://ismir2013.{{site.domain}}/) | 4-8 November 2013, Curitiba (Brazil) | [Proceedings]({{site.base_url}}/conferences/ismir2013) |
+| [ISMIR 2012](https://ismir2012.{{site.domain}}/) | 8-12 October 2012, Porto (Portugal) | [Proceedings]({{site.base_url}}/conferences/ismir2012) |
+| [ISMIR 2011](https://ismir2011.{{site.domain}}/) | 24-28 October 2011, Miami (USA) | [Proceedings]({{site.base_url}}/conferences/ismir2011) |
+| [ISMIR 2010](https://ismir2010.{{site.domain}}/) | 9-13 August, 2010, Utrecht (Netherlands) | [Proceedings]({{site.base_url}}/conferences/ismir2010) |
+| [ISMIR 2009](https://ismir2009.{{site.domain}}/) | 26-30 October 2009, Kobe (Japan) | [Proceedings]({{site.base_url}}/conferences/ismir2009) |
+| [ISMIR 2008](https://ismir2008.{{site.domain}}/) | 14-18 September 2008, Philadelphia (USA) | [Proceedings]({{site.base_url}}/conferences/ismir2008) |
+| [ISMIR 2007](https://ismir2007.{{site.domain}}/) | 23-30 September 2007, Vienna (Austria) | [Proceedings]({{site.base_url}}/conferences/ismir2007) |
+| [ISMIR 2006](https://ismir2006.{{site.domain}}/) | 8-12 October 2006, Victoria, BC (Canada) | [Proceedings]({{site.base_url}}/conferences/ismir2006) |
+| [ISMIR 2005](https://ismir2005.{{site.domain}}/) | 11-15 September 2005, London (UK) | [Proceedings]({{site.base_url}}/conferences/ismir2005) |
+| [ISMIR 2004](https://ismir2004.{{site.domain}}/) | 10-15 October 2004, Barcelona (Spain) | [Proceedings]({{site.base_url}}/conferences/ismir2004) |
+| [ISMIR 2003](https://ismir2003.{{site.domain}}/) | 26-30 October 2003, Baltimore, Maryland (USA) | [Proceedings]({{site.base_url}}/conferences/ismir2003) |
+| [ISMIR 2002](https://ismir2002.{{site.domain}}/) | 13-17 October 2002, Paris (France) | [Proceedings]({{site.base_url}}/conferences/ismir2002) |
+| [ISMIR 2001](https://ismir2001.{{site.domain}}/) | 15-17 October 2001, Bloomington, Indiana (USA) | [Proceedings]({{site.base_url}}/conferences/ismir2001) |
+| [ISMIR 2000](https://ismir2000.{{site.domain}}/) | 23-25 October 2000, Plymouth, Massachusetts (USA) | [Proceedings]({{site.base_url}}/conferences/ismir2000) |
 

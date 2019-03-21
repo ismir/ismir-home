@@ -4,6 +4,7 @@ title: ISMIR
 description: Homepage of the International Society for Music Information Retrieval
 authors: ISMIR Society
 base_url: ""  # /ismir-home
+domain: ismir.dev
 
 include: ['proceedings']
 
