@@ -5,7 +5,7 @@ permalink: /stats/
 
 ## ISMIR Paper and Membership Statistics
 
-The annual Conference of the [International Society for Music Information Retrieval](http://www.ismir.net)
+The annual Conference of the [International Society for Music Information Retrieval](http://{{site.domain}})
 (ISMIR) is the world's leading research forum on processing, searching, organizing
 and accessing music-related data. The ISMIR Conference provides a meeting place for
 the discussion of MIR-related research. Its main goal is to foster the exchange of
