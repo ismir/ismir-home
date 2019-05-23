@@ -5,7 +5,7 @@ permalink: /
 
 ## Upcoming Conferences
 
-* ISMIR 2019, Delft, The Netherlands
+* [ISMIR 2019, Delft, The Netherlands](http://ismir2019.ewi.tudelft.nl)
 * ISMIR 2020, Montreal, Canada
 
 **We are [welcoming bids]({{site.base_url}}/pdfs/Call4Hosting-ISMIR-0.8.pdf) for 2021!**
