@@ -4,6 +4,7 @@ rvm:
 
 script:
   - cd ./docs
+  - bundle install
   - JEKYLL_ENV=production bundle exec jekyll build
 
 env:
