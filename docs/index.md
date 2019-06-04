@@ -5,7 +5,7 @@ permalink: /
 
 ## Upcoming Conferences
 
-* ISMIR 2019, Delft, The Netherlands
+* [ISMIR 2019](http://ismir2019.ismir.net) November 4-8 – Delft, The Netherlands
 * ISMIR 2020, Montreal, Canada
 
 **We are [welcoming bids]({{site.base_url}}/pdfs/Call4Hosting-ISMIR-0.8.pdf) for 2021!**
@@ -27,8 +27,7 @@ research forum on processing, searching, organising and accessing music-related 
 
 
 The Society reports recent activities at the yearly ISMIR Community
-Meeting (held during the Conference). The slide deck for the 2016 community
-meeting may be accessed at [this link](https://docs.google.com/presentation/d/1PGFeUkegm4T-XlKNQa-w37dOQvVj2AZQBZl0_ceQ1Tc/pub?start=false&loop=false&delayms=3000).
+Meeting (held during the Conference). The slide decks for past conferences are [found here]({{site.base_url}}/about).
 
 
 ## Be a part of the Community!
