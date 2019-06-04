@@ -1,7 +1,7 @@
 language: ruby
 rvm:
   - 2.4.1
-a
+
 script:
   - JEKYLL_ENV=production bundle exec jekyll build
 
