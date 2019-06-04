@@ -56,7 +56,7 @@ Make sure you've installed the `jekyll` tools. See the [instructions here](). To
 
 ```bash
 $ cd ./docs
-$ jekyll s --port 4000
+$ bundle install; bundle exec jekyll serve;
 ```
 
 This will not work from the repository root.
@@ -75,3 +75,10 @@ base_url: /ismir-home
 When developing locally, set this to an empty string (`""`) for local development. When pushing to master, this should match the repository name (`/ismir-home`).
 
 
+### Deploying
+
+Once you've built the website and confirmed that it works, you can `scp` the site's output to the remote server.
+
+```bash
+scp -vr docs/_site/* username@your.host.com:~/destination/
+```
