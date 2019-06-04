@@ -13,8 +13,7 @@ install:
 script:
 - cd ./docs
 - bundle exec jekyll build
-after_sucess:
-  - pwd
+- pwd
 deploy:
 - provider: script
   script: deploy_production.sh
