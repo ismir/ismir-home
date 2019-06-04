@@ -13,10 +13,10 @@ install:
 script:
 - cd ./docs
 - bundle exec jekyll build
-- pwd
+- cd ..
 deploy:
 - provider: script
-  script: deploy_production.sh
+  script: ./deploy_production.sh
   skip_cleanup: true
   on:
     branch: master
