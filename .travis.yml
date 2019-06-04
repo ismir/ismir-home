@@ -9,7 +9,7 @@ env:
 
 install:
 - bundle install --gemfile=docs/Gemfile
-- apt-get install sshpass
+- sudo apt-get install -y sshpass
 script:
 - cd ./docs
 - bundle exec jekyll build
@@ -18,7 +18,7 @@ deploy:
   script: deploy_production.sh
   on:
     branch: master
-sudo: false
+sudo: required
 cache: bundler
 exclude:
 - vendor
