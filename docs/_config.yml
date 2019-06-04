@@ -3,9 +3,11 @@ theme: jekyll-theme-minimal
 title: ISMIR
 description: Homepage of the International Society for Music Information Retrieval
 authors: ISMIR Society
-base_url: ""  # /ismir-home
+base_url: ""
 domain: "ismir.net"
+# repository: ismir/ismir-home
 
+# This might be stale
 include: ['proceedings']
 
 menu:
