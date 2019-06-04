@@ -5,7 +5,7 @@ description: Homepage of the International Society for Music Information Retriev
 authors: ISMIR Society
 base_url: ""
 domain: "ismir.net"
-repository: ismir/ismir-home
+# repository: ismir/ismir-home
 
 # This might be stale
 include: ['proceedings']

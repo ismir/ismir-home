@@ -1,24 +1,26 @@
 language: ruby
 rvm:
-  - 2.4.1
-
+- 2.4.1
 env:
   global:
-    - DUMMY=foo
+  - secure: qVaOitrQajJowLp7gUuByEPb4JsOlC+NoRjkOM1kcRCuTo4x2YE58n5q5p0bHS8EeHGw2DjybXgw7X7yidAVnHu/qO4LshGqDUujxhIDyc0NPcO0gDZqGMaKdyZLxBdLwYLl1t15ZA1rl2Bx5RH3K7KDaFiU5+DXxW3LbYRG6msAhett5l0O9cSG6Q8EG4AkVoWryXQ7VaZ2qBYcKR0lVtMpIGRccGezECoxgPHwJ2BwWGdFvkU38ZMDkY6ECGctu5kLq0ECVmUh673N3az8k2VpWyiz3QyqzQmzteicY6TxYcOPhlH0spKQk1JCSRx33zfX2lun8/i0x6l3oem8dv2Wwu3h+QwT6WiREQ+xkEku95Dqrhl7ygHtVs6c8W55MjnwEnLBqknBY/biCLZ0RhzMFFuS/lLR+XNRRkqkCM0I7uxrHn5UwED1YWTIIVSXw2fbcS5s0fTHtbmO5u39Z/2vK0LLHxgCFuyR9Y+EBnHHQyBZl4LTksGVP2XQ56JKASBi19XkJ1H4qRqB6MyxyR4/g5/jJLoCG7ANThrSl58yAG5iqxWh8AFhxwEVcs+uY1s5GIumep1pHjWtm1/P6hxC6JZqOrg+uaBnTs0lc8jK6UptQ7EDcjPZjvwL0tzDkqbr07KAnZtEgWGxdwrIE3yR+rqlWPmgVpQcTeLjrOE=
+  - secure: R0aBPGPgLYmopHQO0rBNAiBrvbA1ZEFyoUJ+1ivv9rwLjM3+172cX3X27LAVqkmWtY2PgI5d9zvQFo85uF8tEZok5bbqN61p1Ekv1cr5oz3il4eR6zUSHCMgPzor1Ov+X1PXfIeqcfIkoR1YyeyVV6YMhCMYJKjFa3EQGF3N7nAyRYTER49YkUpMeoh6P4A3kDcT6SVvjbdCFxpOWZdhov5fRuMws5kYXSAWiWMzhv4jZWxX4ZEk186gdseemYiFIPihmSBPQnvvfiypMxEvI5wckJsDZkRElbelPoDfKU92IR87T1phTObun8diyvlAqhHmgI06UveTObUcInFT2HxxVmzzDQX8dGjQmHFR0/74efOeoZFPXsIenaB6p6E4McOq8/zlqFr5Kx/QHi6zfrlNVEpEDJ5zxkxXOpXwK+0Pyss0MtvDNOXe2byeraVOs9rey3qyhVl6wjjWEYfPT5MRZUeoanco0v3XqtRRLBzNinsQLlTLg5p7HXJDjUUL7Vt6fGfTBR6wl+qKPLp93XYvVsQX/ZDsaMiBGmDycL8OStvtQiqcf9XV0X8OMX2j3fi9+SxRKOQ61/jGtO9scFB7AX21zNabz7NlS25H9TwWrcfrs74Wsf4O8dXyqaR6uy2D/kNv9kEyjwXfqoIxZoW7XKU1Mc2WpSWXzR6MBRY=
+  - secure: JSV5+xodBI0ccQV710NjuUQu0soWJBLB17W9JwzWMYZLgqKFzN0YcPMMkqEWsZyxfftSbNGoOkmcFVsdVd/jhvbv+gKIoDR+gKedKKB+b3kVFsVyX+Z1DJ2Wln160zLymH7EwnElTP2pTBbtUTWjbkpIMjeFQtBPbhniMjU5yleA0DKfwTgg7LBrXrArjT5CMvPYVW4cN2MZazcGNvF/4eYDVNZhzRYH0RmTKoPngR5s4rupXyQ0UmDVQlbBddUzLbfGFW+jCkTbzYoAXwsUkCG12tLqtObgoXl/tlBlG6rZOnIoPAJDvgBMnBWw5Bx2XDrQs2OMtG1jp8jUoL3nOYK/8eEHRO4PxiKXlRkZcgz4kdjLb970rkXh9OGLIbmxINwZ4Fuq2IfCO8cgld+ctD1/4umpTpewruYE58mx6yBbl/twml70OPHxGWduJA0kMp8W+0iMVPjgBz23C6EC5SbKMDc5cHJYL7WB7ACDo6WrE3HIdHABUQ3a4xegNyuBDTmwM7rTFXdxDCzVRTM29WC5fYnkpFAndRwrX2pgGWTJJFzfiwjvseAvuGFAqYY66swFfYZjHpOw+AZbkwKG8jSg/2U2pAQxrtgaEUVT44cWEnrrdMknYNW0Hi9w8xraojnYflE9RpAXhzgvPsOo5nmoXSbKCJejMoZyxndCtVk=
 
 install:
-  - bundle install --gemfile=docs/Gemfile
-
+- bundle install --gemfile=docs/Gemfile
+- apt install sshpass
 script:
-  - cd ./docs
-  - JEKYLL_ENV=production bundle exec jekyll build
-
-sudo: false # route your build to the container-based infrastructure for a faster build
-
-cache: bundler # caching bundler gem packages will speed up build
-
-exclude: [vendor]
-
-# Optional: disable email notifications about the outcome of your builds
+- cd ./docs
+- bundle exec jekyll build
+deploy:
+- provider: script
+  script: deploy_production.sh
+  on:
+    branch: master
+sudo: false
+cache: bundler
+exclude:
+- vendor
 notifications:
   email: false
