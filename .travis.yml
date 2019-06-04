@@ -14,6 +14,8 @@ script:
 - cd ./docs
 - bundle exec jekyll build
 - cd ..
+before_deploy:
+  - eval "$(ssh-agent -s)"
 deploy:
 - provider: script
   script: ./deploy_production.sh
