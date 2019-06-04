@@ -7,7 +7,7 @@ env:
     - DUMMY=foo
 
 install:
-  - bundle install
+  - bundle install --gemfile=docs/Gemfile
 
 script:
   - cd ./docs
