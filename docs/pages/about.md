@@ -58,7 +58,7 @@ in [this document](https://docs.google.com/document/d/e/2PACX-1vSGoaFelpdZaLwoRP
 * **Secretary**: Eric J. Humphrey, Spotify, USA
 * **Treasurer**: Bob Sturm, KTH, Sweden
 * **Member-at-large**: Geoffroy Peeters, IRCAM, France
-* **Member-at-large**: Blair Kaneshiro, Smule, USA
+* **Member-at-large**: Blair Kaneshiro, Stanford U., USA
 * **Member-at-large**: Douglas Turnbull, Ithaca College, USA
 * **Student member**: Iris Yuping Ren, Utrecht U., Netherlands
 
