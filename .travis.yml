@@ -13,9 +13,6 @@ script:
   - cd ./docs
   - JEKYLL_ENV=production bundle exec jekyll build
 
-deploy:
-  - echo "SUCCESS"
-
 sudo: false # route your build to the container-based infrastructure for a faster build
 
 cache: bundler # caching bundler gem packages will speed up build
