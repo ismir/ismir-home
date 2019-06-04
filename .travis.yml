@@ -3,6 +3,7 @@ rvm:
   - 2.4.1
 
 script:
+  - cd ./docs
   - JEKYLL_ENV=production bundle exec jekyll build
 
 env:
