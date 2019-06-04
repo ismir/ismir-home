@@ -8,23 +8,23 @@ env:
   - secure: JSV5+xodBI0ccQV710NjuUQu0soWJBLB17W9JwzWMYZLgqKFzN0YcPMMkqEWsZyxfftSbNGoOkmcFVsdVd/jhvbv+gKIoDR+gKedKKB+b3kVFsVyX+Z1DJ2Wln160zLymH7EwnElTP2pTBbtUTWjbkpIMjeFQtBPbhniMjU5yleA0DKfwTgg7LBrXrArjT5CMvPYVW4cN2MZazcGNvF/4eYDVNZhzRYH0RmTKoPngR5s4rupXyQ0UmDVQlbBddUzLbfGFW+jCkTbzYoAXwsUkCG12tLqtObgoXl/tlBlG6rZOnIoPAJDvgBMnBWw5Bx2XDrQs2OMtG1jp8jUoL3nOYK/8eEHRO4PxiKXlRkZcgz4kdjLb970rkXh9OGLIbmxINwZ4Fuq2IfCO8cgld+ctD1/4umpTpewruYE58mx6yBbl/twml70OPHxGWduJA0kMp8W+0iMVPjgBz23C6EC5SbKMDc5cHJYL7WB7ACDo6WrE3HIdHABUQ3a4xegNyuBDTmwM7rTFXdxDCzVRTM29WC5fYnkpFAndRwrX2pgGWTJJFzfiwjvseAvuGFAqYY66swFfYZjHpOw+AZbkwKG8jSg/2U2pAQxrtgaEUVT44cWEnrrdMknYNW0Hi9w8xraojnYflE9RpAXhzgvPsOo5nmoXSbKCJejMoZyxndCtVk=
 
 install:
-- bundle install --gemfile=docs/Gemfile
-- sudo apt-get install -y sshpass
+  - bundle install --gemfile=docs/Gemfile
+  - sudo apt-get install -y sshpass
 script:
-- cd ./docs
-- bundle exec jekyll build
-- cd ..
+  - cd ./docs
+  - bundle exec jekyll build
+  - cd ..
 before_deploy:
   - eval "$(ssh-agent -s)"
 deploy:
 - provider: script
-  script: ./deploy_production.sh
+  script: bash deploy_production.sh
   skip_cleanup: true
   on:
     branch: master
 sudo: required
 cache: bundler
 exclude:
-- vendor
+  - vendor
 notifications:
   email: false
