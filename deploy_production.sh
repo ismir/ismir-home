@@ -1,6 +1,4 @@
 #!/bin/bash
 set -ev
 
-pwd
-
-sshpass -p "${DEPLOY_PASSWORD}" scp -P 2222 -rv ./docs/_site/* ${DEPLOY_USER}@${DEPLOY_HOST}:~/public_html/
+scp -i id_rsa -P 2222 -rv ./docs/_site/* ${DEPLOY_USER}@${DEPLOY_HOST}:~/public_html/
