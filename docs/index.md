@@ -27,7 +27,7 @@ research forum on processing, searching, organising and accessing music-related 
 
 
 The Society reports recent activities at the yearly ISMIR Community
-Meeting (held during the Conference). The slide decks for past conferences are [found here]({{site.base_url}}/about).
+Meeting held during the Conference. The slide decks for past conferences are [found here]({{site.base_url}}/about).
 
 
 ## Be a part of the Community!

@@ -82,3 +82,5 @@ Once you've built the website and confirmed that it works, you can `scp` the sit
 ```bash
 scp -vr docs/_site/* username@your.host.com:~/destination/
 ```
+
+For use on travis, SSH keys have been configured to enable automatic deployment.
