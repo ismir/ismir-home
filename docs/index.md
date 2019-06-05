@@ -1,5 +1,5 @@
 ---
-title: ISMIR Homepage
+title: ISMIR - Home
 permalink: /
 ---
 
