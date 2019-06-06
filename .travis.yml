@@ -12,9 +12,7 @@ before_install:
 install:
 - cd ./docs
 - bundle install
-- cd ..
 script:
-- cd ./docs
 - bundle exec jekyll build
 - cd ..
 before_deploy:
