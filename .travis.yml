@@ -11,7 +11,7 @@ before_install:
   -in id_rsa.enc -out id_rsa -d
 install:
 - cd ./docs
-- bundle install Gemfile
+- bundle install
 - cd ..
 script:
 - cd ./docs
