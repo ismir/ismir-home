@@ -10,7 +10,9 @@ before_install:
 - openssl aes-256-cbc -K $encrypted_f62fcae3ff55_key -iv $encrypted_f62fcae3ff55_iv
   -in id_rsa.enc -out id_rsa -d
 install:
-- bundle install --gemfile=docs/Gemfile
+- cd ./docs
+- bundle install Gemfile
+- cd ..
 script:
 - cd ./docs
 - bundle exec jekyll build
