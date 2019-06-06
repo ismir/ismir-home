@@ -90,7 +90,9 @@ This repository is currently configured to build **pull requests** and **commits
 
 One can recreate this configuration as follows:
 
-0. Create a `.travis.yml` file. If starting from the one in this repository, delete the `env:globals` and the `before_install` routine. We'll overwrite these below.
+0. Create a `.travis.yml` file. 
+  1. If starting from the one in this repository, delete the `env:globals` and the `before_install` routine. We'll overwrite these below.
+  2. Otherwise, start from the Jekyll template here: https://jekyllrb.com/docs/continuous-integration/travis-ci/
 1. Create an SSH key-pair locally with `ssh-keygen`. Here they are called `id_rsa` (private key) and `id_rsa.pub` (public key)
   1. The public key must be copied to the host, e.g. `ssh-copy-id -p 22 -i id_rsa.pub username@ip.add.ress.here`
   2. The private key must be modified to eliminate the passphrase via `ssh-keygen -p -f id_rsa -N ''`

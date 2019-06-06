@@ -42,6 +42,7 @@ ISMIR was incorporated in Canada on July 4, 2008. It was previously run by a Ste
 
 ### Past Business Meeting Presentations
 
+* [ISMIR2018]({{site.base_url}}/pdfs/2018_business_meeting.pdf)
 * [ISMIR2017]({{site.base_url}}/pdfs/2017_business_meeting.pdf)
 * [ISMIR2016]({{site.base_url}}/pdfs/2016_business_meeting.pdf)
 * [ISMIR2015]({{site.base_url}}/pdfs/2015_business_meeting.pdf)
