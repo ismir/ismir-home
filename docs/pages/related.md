@@ -1,6 +1,6 @@
 ---
 title: Proceedings
-permalink: /resources/related
+permalink: /resources/related/
 ---
 
 ## [Resources]({{site.base_url}}/resources) / Related Communities
