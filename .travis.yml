@@ -1,4 +1,7 @@
 language: ruby
+cache:
+  directories:
+  - /home/travis/.rvm/gems
 rvm:
 - 2.4.1
 env:
@@ -24,7 +27,6 @@ deploy:
   on:
     branch: master
 sudo: required
-cache: bundler
 exclude:
 - vendor
 notifications:
