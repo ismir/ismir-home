@@ -19,7 +19,7 @@ before_deploy:
 - eval "$(ssh-agent -s)"
 deploy:
 - provider: script
-  script: bash deploy_production.sh
+  script: ./deploy_production.sh id_rsa
   skip_cleanup: true
   on:
     branch: master

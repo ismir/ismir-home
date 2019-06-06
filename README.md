@@ -2,6 +2,7 @@
 
 Jekyll version of the ISMIR Homepage
 
+[![Build Status](https://travis-ci.com/ismir/ismir-home.svg?branch=master)](https://travis-ci.com/ismir/ismir-home)
 
 ## Contributing (the simple version)
 
@@ -77,10 +78,31 @@ When developing locally, set this to an empty string (`""`) for local developmen
 
 ### Deploying
 
-Once you've built the website and confirmed that it works, you can `scp` the site's output to the remote server.
+Once you've built the website and confirmed that it works, you can `scp` the site's output to a remote server.
 
 ```bash
 scp -vr docs/_site/* username@your.host.com:~/destination/
 ```
 
-For use on travis, SSH keys have been configured to enable automatic deployment.
+#### Automated Deployments on Travis-CI
+
+This repository is currently configured to build **pull requests** and **commits to master**, and in the latter case, redeploy the build output (the static site) to web hosting. While this now makes redeployments easy, configuration was not exactly straightforward.
+
+One can recreate this configuration as follows:
+
+0. Create a `.travis.yml` file. If starting from the one in this repository, delete the `env:globals` and the `before_install` routine. We'll overwrite these below.
+1. Create an SSH key-pair locally with `ssh-keygen`. Here they are called `id_rsa` (private key) and `id_rsa.pub` (public key)
+  1. The public key must be copied to the host, e.g. `ssh-copy-id -p 22 -i id_rsa.pub username@ip.add.ress.here`
+  2. The private key must be modified to eliminate the passphrase via `ssh-keygen -p -f id_rsa -N ''`
+2. We can now encrypt environment variables that will be used by `./deploy_production.sh`, a shell script that has been made executable (`chmod +x`)
+  1. We need to specify two env variables, `DEPLOY_HOST` and `DEPLOY_USER`, to access the host. This can be achieved by supplying this call with the right values from the repository root: `travis encrypt SOMEVAR="secretvalue" --add`
+  2. See the instructions here for complete details: https://docs.travis-ci.com/user/encryption-keys
+  3. Not that these encrypted values provide an extra layer of obfuscation to the location of the server, and are not strictly necessary – future configurations could provide this info as plaintext.
+3. We must encrypt the private key file so that the Travis-CI build context can copy the built website to the host.
+  1. The private key is encrypted with the following command, issued from the repository root: `travis encrypt-file id_rsa --add`
+  2. This will encrypt the file with a `.enc` suffix, and add an additional command to `before_install`. Add the encrypted file to the repository (NOT THE PRIVATE KEY) and commit both changes.
+  3. See the instructions here for complete details: https://docs.travis-ci.com/user/encrypting-files/
+4. The `./deploy_production` script takes a path to the private key to use for securely copying data to the host server. One can similarly use this script locally with appropriately configured SSH keys.
+  1. Note that `.travis.yml` is configured to only deploy on commits to master.
+  2. The ssh-agent must be kick-started before attempting to copy the website to the host.
+
