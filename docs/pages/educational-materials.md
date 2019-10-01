@@ -17,11 +17,12 @@ The resources are sorted by decreasing year of publication. If you would like to
 * ["Music Similarity and Retrieval: An Introduction to Audio- and Web-based Strategies."](http://www.springer.com/us/book/9783662497203) Peter Knees and Markus Schedl.  Springer, 2016
 * ["Music Data Analysis: Foundations and Applications."](https://www.crcpress.com/Music-Data-Analysis-Foundations-and-Applications/Weihs-Jannach-Vatolkin-Rudolph/p/book/9781498719568) Claus Weihs, Dietmar Jannach, Igor Vatolkin, Guenter Rudolph. Chapman & Hall/CRC Computer Science & Data Analysis, 2016
 * ["Fundamentals of Music Processing." ](http://www.springer.com/us/book/9783319219448) Meinard M&uuml;ller. Springer, 2015.
+  [Jupyter/Python Notebooks and Code Examples.](https://www.audiolabs-erlangen.de/FMP)
 * ["An Introduction to Audio Content Analysis."](http://www.wiley.com/buy/9781118266823) Alexander Lerch. Wiley, 2012.
 * ["Music Recommendation and Discovery: The Long Tail, Long Fail, and Long Play in the Digital Music Space."](http://ocelma.net/MusicRecommendationBook/index.html) &Ograve;scar Celma. Springer, 2010.
 * ["Information Retrieval for Music and Motion." ](http://www.springer.com/us/book/9783540740476) Meinard M&uuml;ller. Springer, 2007.
 * ["Rhythm and Transforms."](http://www.springer.com/us/book/9781846286391) William Arthur Sethares. Springer, 2007.
-* ["Signal Processing Methods for Music Transcription."](http://www.cs.tut.fi/~klap/amt.html)Anssi P. Klapuri and Manuel Davy, editors. Springer, New York, 2006.
+* ["Signal Processing Methods for Music Transcription."](http://www.cs.tut.fi/~klap/amt.html) Anssi P. Klapuri and Manuel Davy, editors. Springer, New York, 2006.
 * ["Tuning, Timbre, Spectrum, Scale."](http://sethares.engr.wisc.edu/ttss.html) William A. Sethares.  Springer, London, 1998.
 
 ### Software
