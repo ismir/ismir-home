@@ -27,7 +27,7 @@ The resources are sorted by decreasing year of publication. If you would like to
 
 ### Software
 
-* [FMP Noteboosk](https://www.audiolabs-erlangen.de/FMP) - Jupyter/Python notebooks for teaching and learning Fundamentals of Music Processing (FMP).
+* [FMP Notebooks](https://www.audiolabs-erlangen.de/FMP) - Jupyter/Python notebooks for teaching and learning Fundamentals of Music Processing (FMP).
 * [Audio Content Analysis](http://www.AudioContentAnalysis.org) - Matlab code for feature extraction, pitch tracking, key detection, onset detection, and links to data sets and MIR-related software projects.
 * [Teaching MIR](https://teachingmir.wikispaces.com/) - A centralized collection of teaching resources related to Music Information Retrieval. It is addressed to teachers and students interested on these technologies from an educational point of view. Current resources include the following: a list of courses related to MIR in different levels, institutions and countries; a collaborative (small) list of teaching materials, such as exercises, musical examples, code; and a list of datasets and reference annotations.
 * [MTG Tutorial](http://mtg.upf.edu/node/3556) - "This tutorial provides a survey of the field of Music Information Retrieval (MIR), that aims, among other things, at automatically extracting semantically meaningful information from various representations of music entities, such as audio, scores, lyrics, web pages or microblogs. The tutorial is designed for students, engineers, researchers, and data scientists who are new to MIR and want to get introduced to the field."
