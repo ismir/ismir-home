@@ -74,7 +74,7 @@ The following is a list of tutorials presented at previous ISMIR conferences.
 * [Music Source Separation and its Applications to MIR](http://ismir2010.{{site.domain}}/program/tutorials/index.html#tutorial1) - Emmanuel Vincent, Nobutaka Ono
 * [A Tutorial on Pattern Discovery and Search Methods in Symbolic Music Information Retrieval.](http://ismir2010.{{site.domain}}/program/tutorials/index.html#tutorial2) - Ian Knopke, Eric Nichols
 * [A Music-oriented Approach To Music Signal Processing.](http://ismir2010.{{site.domain}}/program/tutorials/index.html#tutorial3) - Meinard Müller, Anssi Klapuri
-* [Finding A Path Through The Jukebox – The Playlist Tutorial.](http://ismir2010.{{site.domain}}/program/tutorials/index.html#tutorial4) - Ben Fields, Paul LamereMeinard Müller, Anssi Klapuri
+* [Finding A Path Through The Jukebox – The Playlist Tutorial.](http://ismir2010.{{site.domain}}/program/tutorials/index.html#tutorial4) - Ben Fields, Paul Lamere
 
 ### 2009
 * [MIR at the Scale of the Web](http://ismir2009.{{site.domain}}/tutorials.html#am1) - Malcolm Slaney, Michael Casey
