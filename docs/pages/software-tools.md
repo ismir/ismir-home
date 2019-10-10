@@ -24,6 +24,9 @@ The software are presented alphabetically. Additionally to the list of software 
   developed by the Music Technology Group in Universitat Pompeu Fabra.
   Essentia was awarded with the Open-Source Competition of ACM Multimedia in 2013.
 
+[FMP Noteboosk](https://www.audiolabs-erlangen.de/FMP) | 
+  Jupyter/Python notebooks for teaching and learning Fundamentals of Music Processing (FMP).
+
 [jAudio](http://jaudio.sourceforge.net/) |
   Java-based stand alone application with a Graphic User Interface (GUI) and a
   Command Line Interface (CLI), which can batch process and outputs XML and ARFF formats.
