@@ -1,9 +1,8 @@
 ---
 title: Tutorials
-permalink: /resources/tutorials/
 ---
 
-## [Resources]({{site.base_url}}/resources) / MIR Tutorials
+## [Resources]({{site.base_url}}/resources/) / MIR Tutorials
 
 The following is a list of tutorials presented at previous ISMIR conferences.
 

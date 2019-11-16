@@ -42,3 +42,15 @@ exclude:
 
 plugins:
   - jekyll-sitemap
+
+collections:
+  resources:
+    output: true
+    permalink: /resources/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "resources"
+    values:
+      layout: "default"
