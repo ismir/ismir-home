@@ -9,7 +9,7 @@ The entries are sorted first by alphabetical order of their country code, and se
 
 Please create a [pull request](https://github.com/ismir/ismir-home/pulls) to contribute to this list.
 
-| Group Name and URL | University/Company/City | Country code | Principal investigator | Notes |
+| Name | Affiliation | Country code | Principal Investigator | Description |
 | --- | --- | --- | --- | --- |
 [Centre for Systematic Musicology](https://systematische-musikwissenschaft.uni-graz.at/) | U. of Graz | AT | Richard Parncutt
 [Institute of Computational Perception](https://www.jku.at/en/institute-of-computational-perception/) | Johannes Kepler U., Linz | AT | Gerhard Widmer and Markus Schedl
@@ -20,7 +20,7 @@ Please create a [pull request](https://github.com/ismir/ismir-home/pulls) to con
 [Distributed Digital Music Archives & Libraries Lab (DDMAL)](http://ddmal.music.mcgill.ca/) | McGill U. | CA | Ichiro Fujinaga
 [Digital and Cognitive Musicology Lab (DCML)](https://github.com/DCMLab) | EPFL | CH | Martin Rohrmeier
 [Institute for Music Informatics and Musicology](http://hfm.eu/imwi/) | U. of Music, Karlsruhe | DE | Thomas Seedorf
-[International Audio Laboratories Erlangen](http://www.audiolabs-erlangen.de/) | [Fraunhofer IIS](http://www.iis.fraunhofer.de/en.html) and [Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)](http://www.fau.eu/), Erlangen | DE | Techniques and tools for analyzing, structuring, retrieving, navigating, and presenting music-related audio signals and other time-dependent multimedia data streams.
+[International Audio Laboratories Erlangen](http://www.audiolabs-erlangen.de/) | [Fraunhofer IIS](http://www.iis.fraunhofer.de/en.html) and [Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)](http://www.fau.eu/), Erlangen | DE | Meinard Müller | Techniques and tools for analyzing, structuring, retrieving, navigating, and presenting music-related audio signals and other time-dependent multimedia data streams.
 [Special Interest Group on Music Analysis](http://sig-ma.de/) | (N/A) | DE | (N/A)
 [Music Informatics and Cognition Group](https://vbn.aau.dk/en/organisations/the-music-informatics-and-cognition-group), [CREATE](https://www.create.aau.dk)| Aalborg U. | DK | David Meredith
 [Application of Information and Communication Technologies Research Group](http://www.atic.uma.es/index_atic.html) | U. of Málaga | ES | Lorenzo J. Tardón and Isabel Barbancho Perez
