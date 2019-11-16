@@ -1,6 +1,6 @@
 ---
 title: Resources
-permalink: /resources/
+permalink: /resources/index.html
 ---
 
 ## Resources
@@ -12,10 +12,10 @@ of user submissions.
 Therefore, if something should (or shouldn't) be here, please submit a
 [pull request](https://github.com/ismir/ismir-home)!
 
-* [Datasets]({{site.base_url}}/resources/datasets)
-* [Educational Materials]({{site.base_url}}/resources/educational-materials.html)
-* [Related Conferences and Journals]({{site.base_url}}/resources/related.html)
-* [Reproducible Research]({{site.base_url}}/resources/reproducible.html)
-* [Research Centers]({{site.base_url}}/resources/research-centers)
-* [Software Tools]({{site.base_url}}/resources/software-tools)
-* [Tutorials]({{site.base_url}}/resources/tutorials.html)
+* [Datasets]({{site.base_url}}/resources/datasets/)
+* [Educational Materials]({{site.base_url}}/resources/educational-materials/)
+* [Related Conferences and Journals]({{site.base_url}}/resources/related/)
+* [Reproducible Research]({{site.base_url}}/resources/reproducible/)
+* [Research Centers]({{site.base_url}}/resources/research-centers/)
+* [Software Tools]({{site.base_url}}/resources/software-tools/)
+* [Tutorials]({{site.base_url}}/resources/tutorials/)
