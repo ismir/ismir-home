@@ -7,6 +7,7 @@ permalink: /
 
 * [ISMIR 2019](http://ismir2019.ismir.net) November 4-8 – Delft, The Netherlands
 * ISMIR 2020, October 12-16 – Montreal, Canada
+* ISMIR 2021 – Bangalore, India
 
 **We are [welcoming bids]({{site.base_url}}/pdfs/Call4Hosting-ISMIR-0.8.pdf) for 2022!**
 

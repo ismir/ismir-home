@@ -42,6 +42,7 @@ ISMIR was incorporated in Canada on July 4, 2008. It was previously run by a Ste
 
 ### Past Business Meeting Presentations
 
+* [ISMIR2019]({{site.base_url}}/pdfs/2019_business_meeting.pdf)
 * [ISMIR2018]({{site.base_url}}/pdfs/2018_business_meeting.pdf)
 * [ISMIR2017]({{site.base_url}}/pdfs/2017_business_meeting.pdf)
 * [ISMIR2016]({{site.base_url}}/pdfs/2016_business_meeting.pdf)
@@ -49,10 +50,21 @@ ISMIR was incorporated in Canada on July 4, 2008. It was previously run by a Ste
 * [ISMIR2014]({{site.base_url}}/pdfs/2014_business_meeting.pdf)
 
 
-### Officers (2018&ndash;2019)
-
 Descriptions of individual board members' responsibilities are found
-in [this document](https://docs.google.com/document/d/e/2PACX-1vSGoaFelpdZaLwoRPzFmgBBubCVtU7mVS4aMjtjT_Xl5P3yayNje3Uzfnl8amZ9Zywo65siId02jQ0N/pub).
+in [this document](https://docs.google.com/document/d/e/2PACX-1vSGoaFelpdZaLwoRPzFmgBBubCVtU7mVS4aMjtjT_Xl5P3yayNje3Uzfnl8amZ9Zywo65siId02jQ0N/pub).´
+
+### Officers (2020&ndash;2021)
+
+* **President**: Meinard M&uuml;ller, International Audio Laboratories Erlangen, Germany
+* **President-elect**: Geoffroy Peeters, Télécom ParisTech, France
+* **Secretary**: Audrey Laplante, Université de Montréal, Canada
+* **Treasurer**: Bob Sturm, KTH, Sweden
+* **Member-at-large**: Estefanía Cano, A*STAR, Singapore
+* **Member-at-large**: Blair Kaneshiro, Stanford University, USA
+* **Member-at-large**: Mark Sandler, Queen Mary University of London, GB
+* **Student member**: Andrew Demetriou, TU Delft, The Netherlands
+
+### Officers (2018&ndash;2019)
 
 * **President**: Emilia G&oacute;mez, Universitat Pompeu Fabra, Spain
 * **President-elect**: Meinard M&uuml;ller, International Audio Laboratories Erlangen, Germany
