@@ -10,6 +10,8 @@ set -ev
 
 chmod 600 $1
 
+# via SSH -- kept for posterity
+###################################
 # scp -o "StrictHostKeyChecking no" \
 # 	-i $1 \
 # 	-P 2222 \
@@ -17,7 +19,6 @@ chmod 600 $1
 # 	${DEPLOY_USER}@${DEPLOY_HOST}:~/public_html/
 
 rsync -e "ssh -p 2222 -i $1 -o StrictHostKeyChecking=no" \
-	-n \
 	--delete-after \
 	-rvc ./docs/_site/* \
 	${DEPLOY_USER}@${DEPLOY_HOST}:~/public_html/
