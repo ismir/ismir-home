@@ -1,6 +1,5 @@
 ---
 title: Datasets
-permalink: /resources/datasets/
 ---
 
 ## [Resources]({{site.base_url}}/resources) / Datasets

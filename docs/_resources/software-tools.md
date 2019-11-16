@@ -1,6 +1,5 @@
 ---
 title: MIR Software
-permalink: /resources/software-tools/
 ---
 
 ## [Resources]({{site.base_url}}/resources) / MIR Software
