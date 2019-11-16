@@ -108,3 +108,12 @@ One can recreate this configuration as follows:
     1. Note that `.travis.yml` is configured to only deploy on commits to master.
     2. The ssh-agent must be kick-started before attempting to copy the website to the host.
 
+## WTFs
+
+Here's a shortlist of weird things that have happened in the past that may serve as useful breadcrumbs, should they show up in the future:
+
+* Only _some_ pages in a collection aren't available: Check the folder permissions on the server. In the past they've been set to 775, rather than 755, and this won't work; rsync will update files, but won't fix these wonky settings.
+
+* Some links are `html`, other are `mypage/`: this is a permalinks issue, look into `collections`, which provide permalinks for free in exchange for a little upfront work. 
+
+* Datasets table goes missing: Check upstream, it depends on the mir-datasets repository to serve this correctly.
