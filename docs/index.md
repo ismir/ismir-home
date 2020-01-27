@@ -5,7 +5,6 @@ permalink: /
 
 ## Upcoming Conferences
 
-* [ISMIR 2019](http://ismir2019.ismir.net) November 4-8, Delft, The Netherlands
 * [ISMIR 2020](https://ismir.github.io/ISMIR2020/), October 12-16, Montreal, Canada
 * ISMIR 2021, November 8-12, Bangalore, India
 
