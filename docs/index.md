@@ -5,8 +5,8 @@ permalink: /
 
 ## Upcoming Conferences
 
-* ISMIR 2020, October 12-16 – Montreal, Canada
-* ISMIR 2021 – Bangalore, India
+* [ISMIR 2020](https://ismir.github.io/ISMIR2020/), October 11-15, Montreal, Canada
+* ISMIR 2021, November 8-12, Bangalore, India
 
 **We are [welcoming bids]({{site.base_url}}/pdfs/Call4Hosting-ISMIR-0.8.pdf) for 2022!**
 
