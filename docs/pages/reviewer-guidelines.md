@@ -1,6 +1,6 @@
 ---
 title: Reviewer guidelines
-permalink: /reviewer-guidelines
+permalink: /reviewer-guidelines/
 ---
 
 # Reviewer guidelines
