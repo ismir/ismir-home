@@ -20,7 +20,7 @@ The open exchange of ideas and respectful, harassment-free scientific debate are
 central to ISMIR. In their application, conference organisers must agree in writing
 with the [code-of-conduct](http://confcodeofconduct.com). They must
 also agree to publish it on the conference website, and to enforce it throughout
-the conference.
+the conference. Similarly, anonymous peer reviewers must follow the [reviewer guidelines]({{site.base_url}}/reviewer-guidelines) when evaluating paper submissions.
 
 | Conference | Location | Proceedings |
 | ---------- | --------- | --------- |
