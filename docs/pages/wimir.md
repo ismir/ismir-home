@@ -11,7 +11,7 @@ increasing opportunities for, women in the MIR field. We meet to socialize,
 share information, and discuss in an informal setting, with the goal of building
 a community around women in our field.
 
-WiMR has held annual meetings at the ISMIR conference since 2012 in Porto. The
+WiMIR has held annual meetings at the ISMIR conference since 2012 in Porto. The
 meetings have had a high turnout of both female and male attendees. A number
 of important issues ranging from mentorship, conference support, to improving
 the representativeness of women researchers in the community were discussed. Photos
