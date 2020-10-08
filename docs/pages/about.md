@@ -59,7 +59,7 @@ in [this document](https://docs.google.com/document/d/e/2PACX-1vSGoaFelpdZaLwoRP
 * **President-elect**: Geoffroy Peeters, Télécom ParisTech, France
 * **Secretary**: Audrey Laplante, Université de Montréal, Canada
 * **Treasurer**: Bob Sturm, KTH, Sweden
-* **Member-at-large**: Estefanía Cano, A*STAR, Singapore
+* **Member-at-large**: Estefanía Cano, AudioSourceRE, Ireland
 * **Member-at-large**: Blair Kaneshiro, Stanford University, USA
 * **Member-at-large**: Mark Sandler, Queen Mary University of London, GB
 * **Student member**: Andrew Demetriou, TU Delft, The Netherlands
