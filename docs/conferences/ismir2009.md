@@ -4,6 +4,8 @@ title: ISMIR 2009
 
 ## [Conferences]({{site.base_url}}/conferences) / ISMIR 2009
 
+[Full Proceedings](https://archives.ismir.net/ismir2009/ismir2009-proceedings.pdf)
+
 | Papers |
 | --- |
 |J. Stephen Downie, Donald Byrd, Tim Crawford<br>**[Ten Years of ISMIR: Reflections on Challenges and Opportunities.](https://doi.org/10.5281/zenodo.1415170)**  [[pdf](https://archives.ismir.net/ismir2009/invited/000000.pdf)]|
