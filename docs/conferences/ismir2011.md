@@ -4,6 +4,8 @@ title: ISMIR 2011
 
 ## [Conferences]({{site.base_url}}/conferences) / ISMIR 2011
 
+[Full Proceedings](https://archives.ismir.net/ismir2011/2011_ISMIR_Proceedings.pdf)
+
 | Papers |
 | --- |
 |Karin Dressler<br>**[An Auditory Streaming Approach for Melody Extraction from Polyphonic Music.](https://doi.org/10.5281/zenodo.1416112)**  [[pdf](https://archives.ismir.net/ismir2011/paper/000000.pdf)]|
