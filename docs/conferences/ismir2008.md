@@ -4,6 +4,8 @@ title: ISMIR 2008
 
 ## [Conferences]({{site.base_url}}/conferences) / ISMIR 2008
 
+[Full Proceedings](https://archives.ismir.net/ismir2008/2008_ISMIR_Proceedings.pdf)
+
 | Papers |
 | --- |
 |Ge Wang, Rebecca Fiebrink, Perry R. Cook<br>**[Music Information Retrieval in ChucK; Real-Time Prototyping for MIR Systems & Performance.](db/conf/ismir/ismir2008.html#WangFC08)**  [[pdf](None)]|
