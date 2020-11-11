@@ -4,6 +4,8 @@ title: ISMIR 2017
 
 ## [Conferences]({{site.base_url}}/conferences) / ISMIR 2017
 
+[Full Proceedings](https://archives.ismir.net/ismir2017/2017_ISMIR_Proceedings.pdf)
+
 | Papers |
 | --- |
 |Sergio Oramas, Oriol Nieto, Francesco Barbieri, Xavier Serra<br>**[Multi-Label Music Genre Classification from Audio, Text and Images Using Deep Features.](https://doi.org/10.5281/zenodo.1417427)**  [[pdf](https://archives.ismir.net/ismir2017/paper/000126.pdf)]|
