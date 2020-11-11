@@ -4,6 +4,8 @@ title: ISMIR 2018
 
 ## [Conferences]({{site.base_url}}/conferences) / ISMIR 2018
 
+[Full Proceedings](https://archives.ismir.net/ismir2018/2018_ISMIR_Proceedings.pdf)
+
 | Papers |
 | --- |
 |Roman B. Gebhardt, Michael Stein, Athanasios Lykartsis<br>**[A Confidence Measure For Key Labelling](https://doi.org/10.5281/zenodo.1492333)** 3-9 [[pdf](https://archives.ismir.net/ismir2018/paper/000072.pdf)]|
