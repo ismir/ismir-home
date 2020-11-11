@@ -4,6 +4,8 @@ title: ISMIR 2016
 
 ## [Conferences]({{site.base_url}}/conferences) / ISMIR 2016
 
+[Full Proceedings](https://archives.ismir.net/ismir2016/2016_ISMIR_Proceedings.pdf)
+
 | Papers |
 | --- |
 |Diego Furtado Silva, Chin-Chia Michael Yeh, Gustavo E. A. P. A. Batista, Eamonn J. Keogh<br>**[SiMPle: Assessing Music Similarity Using Subsequences Joins.](https://doi.org/10.5281/zenodo.1415012)**  [[pdf](https://archives.ismir.net/ismir2016/paper/000099.pdf)]|
