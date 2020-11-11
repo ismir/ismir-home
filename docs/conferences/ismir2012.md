@@ -4,6 +4,8 @@ title: ISMIR 2012
 
 ## [Conferences]({{site.base_url}}/conferences) / ISMIR 2012
 
+[Full Proceedings](http://archives.ismir.net/ismir2012/2012_ISMIR_Proceedings.pdf)
+
 | Papers |
 | --- |
 |Nick Collins<br>**[Influence in Early Electronic Dance Music: An Audio Content Analysis Investigation.](https://doi.org/10.5281/zenodo.1417621)**  [[pdf](None)]|
