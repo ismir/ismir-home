@@ -4,6 +4,8 @@ title: ISMIR 2014
 
 ## [Conferences]({{site.base_url}}/conferences) / ISMIR 2014
 
+[Full Proceedings](https://archives.ismir.net/ismir2014/2014_ISMIR_Proceedings.pdf)
+
 | Papers |
 | --- |
 |Abhishek Singhi, Daniel G. Brown<br>**[On Cultural, Textual and Experiential Aspects of Music Mood.](https://doi.org/10.5281/zenodo.1417391)**  [[pdf](https://archives.ismir.net/ismir2014/paper/000113.pdf)]|
