@@ -4,6 +4,8 @@ title: ISMIR 2013
 
 ## [Conferences]({{site.base_url}}/conferences) / ISMIR 2013
 
+[Full Proceedings](https://archives.ismir.net/ismir2013/2013_ISMIR_Proceedings.pdf)
+
 | Papers |
 | --- |
 |Sander Dieleman, Benjamin Schrauwen<br>**[Multiscale Approaches To Music Audio Feature Learning.](https://doi.org/10.5281/zenodo.1416676)**  [[pdf](https://archives.ismir.net/ismir2013/paper/000069.pdf)]|
