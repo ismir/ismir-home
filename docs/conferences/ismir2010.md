@@ -4,6 +4,8 @@ title: ISMIR 2010
 
 ## [Conferences]({{site.base_url}}/conferences) / ISMIR 2010
 
+[Full Proceedings](https://archives.ismir.net/ismir2010/2010_ISMIR_Proceedings.pdf)
+
 | Papers |
 | --- |
 |Tom Collins, Jeremy Thurlow, Robin C. Laney, Alistair Willis, Paul H. Garthwaite<br>**[A Comparative Evaluation of Algorithms for Discovering Translational Patterns in Baroque Keyboard Works.](https://doi.org/10.5281/zenodo.1416070)**  [[pdf](https://archives.ismir.net/ismir2010/paper/000002.pdf)]|
