@@ -23,7 +23,7 @@ International Society for Music Information Retrieval (TISMIR), is
 The International Society for Music Information Retrieval (ISMIR) is a non-profit
 organisation which, among other things, oversees the organisation of the ISMIR
 Conference. The ISMIR conference is held annually and is the world's leading
-research forum on processing, searching, organising and accessing music-related data..
+research forum on processing, searching, organising and accessing music-related data.
 
 
 The Society reports recent activities at the yearly ISMIR Community
