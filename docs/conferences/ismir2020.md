@@ -5,7 +5,6 @@ title: ISMIR 2020
 ## [Conferences](/conferences) / ISMIR 2020
 | Papers |
 | --- |
-
 | Go Shibata,  Ryo  Nishikimi,  Kazuyoshi  Yoshii<br>**[Music Structure Analysis Based on an LSTM-HSMM Hybrid Model](https://doi.org/10.5281/zenodo.4245362)** 23-29 [[pdf](http://archives.ismir.net/ismir2020/paper/000005.pdf)]|
 | Keitaro Tanaka,  Takayuki  Nakatsuka,  Ryo  Nishikimi,  Kazuyoshi  Yoshii,  Shigeo  Morishima<br>**[Multi-Instrument Music Transcription Based on Deep Spherical Clustering of Spectrograms and Pitchgrams](https://doi.org/10.5281/zenodo.4245436)** 327-334 [[pdf](http://archives.ismir.net/ismir2020/paper/000006.pdf)]|
 | Omar A Peracha<br>**[Improving Polyphonic Music Models with Feature-rich Encoding](https://doi.org/10.5281/zenodo.4245396)** 169-175 [[pdf](http://archives.ismir.net/ismir2020/paper/000012.pdf)]|
