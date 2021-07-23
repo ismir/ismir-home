@@ -6,9 +6,34 @@ title: Tutorials
 
 The following is a list of tutorials presented at previous ISMIR conferences.
 
-[2018](#2018) | [2017](#2017) | [2016](#2016) | [2015](#2015) | [2014](#2014) | [2013](#2013) |
-[2012](#2012) | [2011](#2011) | [2010](#2010) | [2009](#2009) | [2008](#2008) | [2007](#2007) |
-[2006](#2006) | [2005](#2005) | [2004](#2004) | [2003](#2003) | [2002](#2002) |  |
+[2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017) | [2016](#2016) |
+[2015](#2015) | [2014](#2014) | [2013](#2013) | [2012](#2012) | [2011](#2011) | [2010](#2010) |
+[2009](#2009) | [2008](#2008) | [2007](#2007) | [2006](#2006) | [2005](#2005) | [2004](#2004) |
+[2003](#2003) | [2002](#2002) |  |   |   |   |
+
+### 2021
+* [Tempo, Beat, and Downbeat Estimation](https://ismir2021.{{site.domain}}/tutorials/#1-tempo-beat-and-downbeat-estimation) - Matthew E. P. Davies, Sebastian Böck and Magdalena Fuentes
+* [Designing Generative Models for Interactive Co-creation](https://ismir2021.{{site.domain}}/tutorials/#2-designing-generative-models-for-interactive-co-creation) - Anna Huang, Jon Gillick and Chris Donahue
+* [Scales, Chords, and Cadences: Practical Music Theory for MIR Researchers](https://ismir2021.{{site.domain}}/tutorials/#3-scales-chords-and-cadences-practical-music-theory-for-mir-researchers) - Johanna Devaney, David R. W. Sears and Daniel Shanahan
+* [Music Classification: Beyond Supervised Learning, Towards Real-world Applications](https://ismir2021.{{site.domain}}/tutorials/#4-music-classification-beyond-supervised-learning-towards-real-world-applications) - Minz Won, Janne Spijkervet and Keunwoo Choi
+* [Programming MIR Baselines from Scratch: Three Case Studies](https://ismir2021.{{site.domain}}/tutorials/#5-programming-mir-baselines-from-scratch-three-case-studies) - Rachel Bittner, Mark Cartwright and Ethan Manilow
+* [Teaching Music Information Retrieval](https://ismir2021.{{site.domain}}/tutorials/#6-teaching-music-information-retrieval) - George Tzanetakis
+
+
+### 2020
+* [Prototyping and Scaling Audio Research with Klio](https://www.ismir2020.net/tutorials/) - Fallon Chen, Lynn Root, Dan Simon and Shireen Kheradpey
+* [Analysis of Expressive Timing in Recorded Music Performances](https://www.ismir2020.net/tutorials/) - Nico Schüler
+* [Metric Learning for Music Information Retrieval](https://www.ismir2020.net/tutorials/) - Brian McFee, Jongpil Lee and Juhan Nam
+* [Open-Source Tools & Data for Music Source Separation: A Practical Guide for the MIR Practitioner](https://www.ismir2020.net/tutorials/) - Ethan Manilow, Prem Seetharaman and Justin Salamon
+* [Version Identification in the 20s](https://www.ismir2020.net/tutorials/)  - Furkan Yesiler, Christopher Tralie and Joan Serrà
+
+### 2019
+* [Fundamentals of Music Processing: An Introduction using Python and Jupyter Notebooks](http://ismir2019.ewi.tudelft.nl/?q=node/36) -  Meinard Müller and Frank Zalkow
+* [Generating Music with GANs: An Overview and Case Studies](http://ismir2019.ewi.tudelft.nl/?q=node/40) - Hao-Wen Dong and Yi-Hsuan Yang
+* [Audiovisual Music Processing](http://ismir2019.ewi.tudelft.nl/?q=node/38) - Zhiyao Duan, Slim Essid, Bochen Li and Sanjeel Parekh
+* [Computational Modeling of Musical Expression: Perspectives, Datasets, Analysis and Generation](http://ismir2019.ewi.tudelft.nl/?q=node/39) - Carlos Cancino-Chaćon, Katerina Kosta and Maarten Grachten
+* [Waveform-based music processing with deep learning](http://ismir2019.ewi.tudelft.nl/?q=node/37) - Sander Dieleman, Jordi Pons and Jongpil Lee
+* [Fairness, Accountability and Transparency in Music Information Research (FAT-MIR)](http://ismir2019.ewi.tudelft.nl/?q=node/41) - Emilia Gómez, Andre Holzapfel, Marius Miron and Bob L. Sturm
 
 ### 2018
 * [Open Source and Reproducible MIR Research](http://ismir2018.{{site.domain}}/pages/events-tutorial-14.html) - Brian McFee, Thor Kell
