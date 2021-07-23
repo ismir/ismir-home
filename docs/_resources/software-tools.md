@@ -63,6 +63,9 @@ The software are presented alphabetically. Additionally to the list of software 
   Low and high level audio feature extraction. It is written in Matlab and includes
   preprocessing, classification, similarity measures and clustering functionality.
 
+[mir_eval](https://github.com/craffel/mir_eval) |
+    Python library for computing common heuristic accuracy scores for various music/audio information retrieval/signal processing tasks.
+
 [Similarity Matrix (SM) Toolbox](http://www.audiolabs-erlangen.de/resources/MIR/SMtoolbox/) |
   MATLAB implementations for computing and enhancing similarity matrices in various ways.
 
