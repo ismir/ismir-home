@@ -23,7 +23,7 @@ The software are presented alphabetically. Additionally to the list of software 
   developed by the Music Technology Group in Universitat Pompeu Fabra.
   Essentia was awarded with the Open-Source Competition of ACM Multimedia in 2013.
 
-[FMP Notebooks](https://www.audiolabs-erlangen.de/FMP) | 
+[FMP Notebooks](https://www.audiolabs-erlangen.de/FMP) |
   Jupyter/Python notebooks for teaching and learning Fundamentals of Music Processing (FMP).
 
 [jAudio](http://jaudio.sourceforge.net/) |
@@ -37,8 +37,14 @@ The software are presented alphabetically. Additionally to the list of software 
   and manage music collections. jMIR includes software for extracting features,
   applying machine learning algorithms, mining metadata and analyzing metadata.
 
+[libfmp](https://github.com/meinardmueller/libfmp/) |
+  Python package that goes along with the FMP notebooks.
+
 [librosa](https://github.com/librosa/librosa/) |
   Python package for music and audio processing.
+
+[libtsm](https://github.com/meinardmueller/libtsm/) |
+  Python package for Time-Scale Modification (TSM) and pitch-shifting.
 
 [LibXtract](http://jamiebullock.github.io/LibXtract/documentation/) |
   Libxtract can extract low level features in real time. It is written in C,
@@ -57,8 +63,14 @@ The software are presented alphabetically. Additionally to the list of software 
   Low and high level audio feature extraction. It is written in Matlab and includes
   preprocessing, classification, similarity measures and clustering functionality.
 
+[mir_eval](https://github.com/craffel/mir_eval) |
+    Python library for computing common heuristic accuracy scores for various music/audio information retrieval/signal processing tasks.
+
 [Similarity Matrix (SM) Toolbox](http://www.audiolabs-erlangen.de/resources/MIR/SMtoolbox/) |
   MATLAB implementations for computing and enhancing similarity matrices in various ways.
+
+[Sync Toolbox](https://github.com/meinardmueller/synctoolbox/) |
+  Python package with reference implementations for full-fledged music synchronization pipelines.
 
 [Tempogram Toolbox](http://resources.mpi-inf.mpg.de/MIR/tempogramtoolbox/) |
   MATLAB implementations for extracting various types of recently proposed tempo
@@ -67,7 +79,7 @@ The software are presented alphabetically. Additionally to the list of software 
 [Timbre Toolbox](https://sourceforge.net/projects/matimbre/) |
   Matlab toolbox for low and high level feature extraction.
 
-[Time-scale Modification (TMS) Toolbox](http://www.audiolabs-erlangen.de/resources/MIR/TSMtoolbox/) |
+[Time-Scale Modification (TSM) Toolbox](http://www.audiolabs-erlangen.de/resources/MIR/TSMtoolbox/) |
   MATLAB implementations of various classical time-scale modification algorithms
   like OLA, WSOLA, and the phase vocoder, among more recent advances.
 
