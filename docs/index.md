@@ -14,7 +14,7 @@ supports and encourages diversity in membership and disciplines, and
 oversees the organisation of the annual [ISMIR conference]({{site.base_url}}/conferences). 
 More details on the society and its mission can be [found here]({{site.base_url}}/about).
 
-## ISMIR Conferences
+## ISMIR Conference
 
 The [ISMIR conference]({{site.base_url}}/conferences) is held annually and is the world's leading research forum on MIR. 
 More details on past conferences and links to the freely accessible proceedings can be [found here]({{site.base_url}}/conferences).
