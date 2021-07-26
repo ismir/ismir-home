@@ -29,10 +29,7 @@ More details on past conferences and links to the freely accessible proceedings 
 
 ## Transactions of the ISMIR
 
-The open-access journal of the MIR community, the Transactions of the
-International Society for Music Information Retrieval (TISMIR), is
-[open for submissions](http://transactions.ismir.net/).
-
+The [Transactions of the International Society for Music Information Retrieval](https://transactions.ismir.net/) (TISMIR) are the open-access journal of the MIR community. TISMIR was established to complement the widely cited ISMIR conference proceedings and provide a vehicle for the dissemination of the highest quality and most substantial scientific research in MIR. More details on TISMIR and its mission can be [found here](https://transactions.ismir.net/).
 
 ## Be a part of the Community!
 
