@@ -24,7 +24,7 @@ You can also look out this list of useful links for checking different metrics c
 * [International Conference on Acoustics, Speech, and Signal Processing (ICASSP)](http://icassp2015.org/)
 * [International Computer Music Association](http://www.computermusic.org/)
 * [Sound and Music Computing (SMC)](http://smcnetwork.org/)
-* [Neural Information Processing Systems (NIPS)](http://nips.cc/)
+* [Neural Information Processing Systems (NeurNIPS)](http://nips.cc/)
 
 ### Journals
 * [IEEE / ACM Transactions on Audio, Speech, and Language Processing (TASLP)](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655)
