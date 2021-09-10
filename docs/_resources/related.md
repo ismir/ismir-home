@@ -32,9 +32,16 @@ You can also look out this list of useful links for checking different metrics c
 * [Neural Information Processing Systems (NeurNIPS)](http://nips.cc/) [[DBLP]](https://dblp.org/db/conf/nips/index.html)
 
 ### Journals
-* [IEEE / ACM Transactions on Audio, Speech, and Language Processing (TASLP)](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655)
+* [Transactions of the International Society for Music Information Retrieval (TISMIR)](https://transactions.ismir.net/) [[DBLP]](https://dblp.org/db/journals/tismir/index.html)
+* [Journal of New Music Research](http://www.tandfonline.com/toc/nnmr20/current) 
+* [IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655) [[DBLP]](https://dblp.org/db/journals/taslp/index.html)
+* [Computer Music Journal](https://direct.mit.edu/comj)  [[DBLP]](https://dblp.org/db/journals/comj/index.html)
+* [Musicae Scientiae](https://journals.sagepub.com/home/msx) 
 * [Music Perception](http://ucpressjournals.com/journal.php?j=mp)
-* [Journal of New Music Research](http://www.tandfonline.com/toc/nnmr20/current)
+* [IEEE Transactions on Multimedia (TMM)](https://signalprocessingsociety.org/publications-resources/ieee-transactions-multimedia) [[DBLP]](https://dblp.org/db/journals/tmm/index.html)
+* [Journal of the Audio Engineering Society (AES)](https://www.aes.org/journal/)
+* [The Journal of the Acoustical Society of America (JASA)](https://asa.scitation.org/journal/jas)
+* [Acta Acustica united with Acustica](http://www.acta-acustica-united-with-acustica.com/)
 
 ### Communities 
 * The Digital Musicology Study Group of the International Musicological Society (IMS) has regular informal meetings in conjunction with various venues where musicology, computer science, and engineering meet. The ISMIR society acknowledges that there are many ties between the ISMIR community and this study group, which often gathers informally during ISMIR conferences, for example during the Unconference session or as a lunch session. We as a society, want to support these intersocietal activities. As an ISMIR member, one is welcome to join the Digital Musicology Study Group.
