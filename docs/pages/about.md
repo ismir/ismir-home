@@ -5,7 +5,7 @@ permalink: /about/
 
 ## About the Society
 
-The International Society of Music Information Retrieval is a non-profit
+The International Society for Music Information Retrieval is a non-profit
 organization seeking to advance the access, organization, and understanding
 of music information. As a field, music information retrieval focuses on the
 research and development of computational systems to help humans
