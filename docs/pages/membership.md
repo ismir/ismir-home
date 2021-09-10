@@ -5,14 +5,13 @@ permalink: /membership/
 
 ## Membership
 
-As a non-profit organization with nary a revenue stream, the society relies almost
-entirely on membership dues to cover operational costs.
+As a non-profit organization, the society relies on membership dues to cover operational costs.
 
 ### Benefits
 
-* Membership rates for conference attendance.
-* Voting rights at the annual business meeting.
-* Spiritual enlightenment and generally good karma.
+* Membership rates for conference attendance
+* Voting rights at the annual business meeting
+* Spiritual enlightenment and generally good karma
 
 ### Becoming a Member
 
