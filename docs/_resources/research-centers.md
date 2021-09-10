@@ -45,6 +45,8 @@ Please create a [pull request](https://github.com/ismir/ismir-home/pulls) to con
 [Centre for Research in New Music (CeReNeM)](https://research.hud.ac.uk/institutes-centres/cerenem/) | U. of Huddersfield | UK | Michael Clarke
 [Music Informatics Research Group (MIRG)](http://mirg.city.ac.uk/) | City U. London | UK | Tillman Weyde
 [(Centre for) Practice and Research in Science and Music, (PRiSM)](https://www.rncm.ac.uk/research/research-centres-rncm/prism/) | RNCM and U. of Oxford | UK | Emily Howard and Marcus du Sautoy
+[Information Research (AIR) Lab](http://www.ece.rochester.edu/projects/air/index.html) | U. Rochester | USA | Zhiyao Duan
+[Interactive Audio Lab](https://interactiveaudiolab.github.io/) | Northwestern U. | USA | Bryan Pardo
 [Center for Computer Assisted Research in the Humanities, (CCARH)](http://www.ccarh.org) | Stanford U. | USA | Craig Sapp and Eleanor Selfridge-Field
 [Center for Music Technology (GTCMT)](http://www.gtcmt.gatech.edu/) | Georgia Tech | USA | Gil Weinberg
 [Cognitive and Systematic Musicology Laboratory (CSML)](https://www.asc.ohio-state.edu/music/csml/home/index.php/Home) | Ohio State U. | USA | David Huron
