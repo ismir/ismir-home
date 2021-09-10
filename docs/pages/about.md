@@ -10,24 +10,24 @@ organization seeking to advance the access, organization, and understanding
 of music information. As a field, music information retrieval focuses on the
 research and development of computational systems to help humans
 better make sense of this data, drawing from a diverse set of disciplines,
-including, but my no means limited to, music theory, computer science, psychology,
+including, but by no means limited to, music theory, computer science, psychology,
 neuroscience, library science, electrical engineering, and machine learning.
 
-More formally, the objects of the Corporation are:
+More formally, the objects of the corporation are:
 
-1. To foster the exchange of ideas between and among members whose activities,
+1. Foster the exchange of ideas between and among members whose activities,
 though diverse, stem from a common interest in music information retrieval.
 
-2. To stimulate research, development, and improvement in teaching in all
+2. Stimulate research, development, and improvement in teaching in all
 branches of music information retrieval.
 
-3. To encourage publication and distribution of theoretical, empirical, and
+3. Encourage publication and distribution of theoretical, empirical, and
 applied studies.
 
-4. To cooperate with representatives of other organizations and disciplines
+4. Cooperate with representatives of other organizations and disciplines
 toward the furtherance of music information retrieval.
 
-5. To support and encourage diversity in membership and the disciplines involved
+5. Support and encourage diversity in membership and the disciplines involved
 as a fundamental aspect of the society.
 
 
@@ -42,6 +42,7 @@ ISMIR was incorporated in Canada on July 4, 2008. It was previously run by a Ste
 
 ### Past Business Meeting Presentations
 
+* [ISMIR2020]({{site.base_url}}/pdfs/2020_business_meeting.pdf)
 * [ISMIR2019]({{site.base_url}}/pdfs/2019_business_meeting.pdf)
 * [ISMIR2018]({{site.base_url}}/pdfs/2018_business_meeting.pdf)
 * [ISMIR2017]({{site.base_url}}/pdfs/2017_business_meeting.pdf)
