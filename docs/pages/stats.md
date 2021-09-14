@@ -40,18 +40,18 @@ of Engineering and Computer Science.
 |9.|	ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)|	37|	55|
 |10.|	IEEE International Conference on Multimedia and Expo|	35|	57|
 
-and the **2nd** ranked in the [Music & Musicology](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=hum_musicmusicology)
+and the **1st** ranked in the [Music & Musicology](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=hum_musicmusicology)
 subcategory of Humanities, Literature, and Arts.
 
 |Rank | Publication | h5-index | h5-median |
 |-----|-------------|----------|-----------|
-| 1 | Psychology of Music |31 |48 |
-| 2 | **International Society for Music Information Retrieval Conference** |29 |42 |
-| 3 | Music Perception: An Interdisciplinary Journal |23 |34 |
-| 4 | Journal of Research in Music Education |19 |26 |
-| 5 | Music Educators Journal |18 |26 |
-| 6 | Musicae Scientiae |18 |24 |
-| 7 | Journal of New Music Research |18 |23 |
-| 8 | International Journal of Music Education |17 |24 |
-| 9 | New Interfaces for Musical Expression (NIME) |17 |22 |
-| 10 | Nordic Journal of Music Therapy |16 |20 |
+|1.|	International Society for Music Information Retrieval Conference|	37|60|
+|2.|	Psychology of Music|	34	|49|
+|3.|	Music Education Research|	22	|31|
+|4.|	Journal of Research in Music Education|	21	|34|
+|5.|	Musicae Scientiae|	21	|30|
+|6.|	Music Perception: An Interdisciplinary Journal|	21|	28|
+|7.|	International Journal of Music Education|	20|	28|
+|8.|	Journal of New Music Research	|19|	29|
+|9.|	Nordic Journal of Music Therapy	|18|	25|
+|10.|	Medical Problems of Performing Artists|	17|	23|
