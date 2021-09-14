@@ -29,16 +29,16 @@ of Engineering and Computer Science.
 
 |Rank | Publication | h5-index | h5-median |
 |-----|-------------|----------|-----------|
-| 1 | IEEE Transactions on Multimedia | 58 | 87 |
-| 2 | IEEE Transactions on Circuits and Systems for Video Technology |54 |83 |
-| 3 | ACM International Conference on Multimedia |44 |67 |
-| 4 | Multimedia Tools and Applications |37 |49 |
-| 5 | Journal of Visual Communication and Image Representation |36 |51 |
-| 6 | IEEE International Conference on Image Processing (ICIP) |34 |46 |
-| 7 | Signal Processing: Image Communication |31 |61 |
-| 8 | **International Society for Music Information Retrieval Conference** |29 |42 |
-| 9 | ACM International Conference on Multimedia Retrieval |29 |41 |
-| 10  |arXiv Multimedia (cs.MM) |26 |38 |
+|1.|	IEEE Transactions on Multimedia|	78|	115|
+|2.|	IEEE Transactions on Circuits and Systems for Video Technology|	77|	110|
+|3.|	Multimedia Tools and Applications|	77|	105|
+|4.|	ACM International Conference on Multimedia|	65|	107|
+|5.|	IEEE International Conference on Image Processing (ICIP)|	60|	89|
+|6.|	Journal of Visual Communication and Image Representation|	47|	6|4
+|7.|	Signal Processing: Image Communication|	42|	66|
+|8.|	**International Society for Music Information Retrieval Conference**|	37|	60|
+|9.|	ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)|	37|	55|
+|10.|	IEEE International Conference on Multimedia and Expo|	35|	57|
 
 and the **2nd** ranked in the [Music & Musicology](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=hum_musicmusicology)
 subcategory of Humanities, Literature, and Arts.
