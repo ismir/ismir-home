@@ -6,7 +6,7 @@ permalink: /wimir/
 
 ## Women in Music Information Retrieval (WiMIR)
 
-[**WiMIR**](https://wimir.wordpress.com/) is a group of people dedicated to promoting the role of and increasing opportunities for women in the MIR field. We meet to socialize, share information, and discuss in an informal setting, with the goal of building a community around women in our field.
+[WiMIR](https://wimir.wordpress.com/) is a group of people dedicated to promoting the role of and increasing opportunities for women in the MIR field. We meet to socialize, share information, and discuss in an informal setting, with the goal of building a community around women in our field.
 
 WiMIR has held meetings at the ISMIR conference since 2011 in Miami. These meetings – initially taking place informally outside of the conference program, and since 2015 as a plenary session in the main program – have had a high turnout of attendees including women and allies in the field. These sessions have included invited keynote talks as well as discussions of important issues ranging from mentorship and conference travel grants to improving representation of women in the field.
 
