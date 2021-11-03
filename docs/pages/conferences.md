@@ -24,6 +24,7 @@ the conference. Similarly, anonymous peer reviewers must follow the [reviewer gu
 
 | Conference | Location | Proceedings |
 | ---------- | --------- | --------- |
+| [ISMIR 2021](https://ismir2021.{{site.domain}}/) | 7-12 November 2021, Online | [Proceedings]({{site.base_url}}/conferences/ismir2021.html) |
 | [ISMIR 2020](https://ismir2020.{{site.domain}}/) | 11-15 October 2020, Montr&eacute;al (Canada) | [Proceedings]({{site.base_url}}/conferences/ismir2020.html) |
 | [ISMIR 2019](https://ismir2019.{{site.domain}}/) | 4-8 November 2019, Delft (Netherlands) | [Proceedings]({{site.base_url}}/conferences/ismir2019.html) |
 | [ISMIR 2018](https://ismir2018.{{site.domain}}/) | 23-27 September 2018, Paris (France) | [Proceedings]({{site.base_url}}/conferences/ismir2018.html) |
