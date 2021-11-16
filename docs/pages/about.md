@@ -42,6 +42,7 @@ ISMIR was incorporated in Canada on July 4, 2008. It was previously run by a Ste
 
 ### Past Business Meeting Presentations
 
+* [ISMIR2021]({{site.base_url}}/pdfs/2021_business_meeting.pdf)
 * [ISMIR2020]({{site.base_url}}/pdfs/2020_business_meeting.pdf)
 * [ISMIR2019]({{site.base_url}}/pdfs/2019_business_meeting.pdf)
 * [ISMIR2018]({{site.base_url}}/pdfs/2018_business_meeting.pdf)
@@ -53,6 +54,17 @@ ISMIR was incorporated in Canada on July 4, 2008. It was previously run by a Ste
 
 Descriptions of individual board members' responsibilities are found
 in [this document](https://docs.google.com/document/d/e/2PACX-1vSGoaFelpdZaLwoRPzFmgBBubCVtU7mVS4aMjtjT_Xl5P3yayNje3Uzfnl8amZ9Zywo65siId02jQ0N/pub).´
+
+### Officers (2022&ndash;2023)
+
+* **President**: Geoffroy Peeters, Télécom ParisTech, France
+* **President-elect**: Zhiyao Duan, University of Rochester, USA
+* **Secretary**: Emmanouil Benetos, Queen Mary University of London, UK
+* **Treasurer**: Bob Sturm, KTH, Sweden
+* **Member-at-large**: Blair Kaneshiro, Stanford University, USA
+* **Member-at-large**: Justin Salamon, Adobe Research, USA
+* **Member-at-large**: Christof Weiss, International Audio Laboratories Erlangen, Germany
+* **Student member**: Alia Morsi, Universitat Pompeu Fabra, Spain
 
 ### Officers (2020&ndash;2021)
 
