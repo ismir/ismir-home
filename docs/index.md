@@ -22,7 +22,7 @@ More details on past conferences and links to the freely accessible proceedings 
 ### Upcoming Conferences
 
 * [ISMIR 2021](https://ismir2021.ismir.net/), November 8-12, Online
-* ISMIR 2022, Bangalore, India
+* [ISMIR 2022](https://ismir2022.ismir.net/), Bangalore, India
 
 **We are [welcoming bids]({{site.base_url}}/pdfs/Call4Hosting-ISMIR-0.8.pdf) for 2023 and beyond.**
 
