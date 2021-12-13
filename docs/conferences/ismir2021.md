@@ -6,7 +6,7 @@ title: ISMIR 2021
 
 **Full Proceedings**
 
-Jin Ha Lee, Alexander Lerch, Zhiyao Duan, Juhan Nam, Preeti Rao, Peter van Kranenburg,  Ajay Srinivasamurthy, [Proceedings of the 22nd International Society for Music Information Retrieval Conference](https://doi.org/10.5281/zenodo.5776686), Online, Nov 7-12, 2021 (ISBN: 978-1-7327299-0-2) [[pdf](http://archives.ismir.net/ismir2021/2021_Proceedings_ISMIR.pdf)]
+**[Proceedings of the 22nd International Society for Music Information Retrieval Conference](https://doi.org/10.5281/zenodo.5776686)**, Online, Nov 7-12, 2021 (ISBN: 978-1-7327299-0-2) [[pdf](http://archives.ismir.net/ismir2021/2021_Proceedings_ISMIR.pdf)]
 
 | Papers |
 | --- |
