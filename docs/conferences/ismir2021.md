@@ -4,7 +4,7 @@ title: ISMIR 2021
 
 ## [Conferences](/conferences) / ISMIR 2021
 
-Proceedings of the 22nd International Society for Music Information Retrieval Conference, Online, Nov 7-12, 2021 [Full Proceedings PDF](http://archives.ismir.net/ismir2021/2021_Proceedings_ISMIR.pdf)
+[Full Proceedings PDF](http://archives.ismir.net/ismir2021/2021_Proceedings_ISMIR.pdf)
 
 | Papers |
 | --- |
