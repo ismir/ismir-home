@@ -25,9 +25,9 @@ You will be asked to provide an evaluation of the papers assigned to you accordi
 - Novelty of the paper
 - Scholarly/scientific quality
 - Reusable insights
-- Stimulation potential
-- Appropriateness of topic
-- Importance
+- Potential to generate discourse
+- Relevance of the topic to ISMIR
+- Pioneering proposals
 - Readability and paper organization
 
 Keep in mind that minor flaws can be corrected, and should not be a reason to reject a paper. However, accepted papers must be technically sound and make an original and substantial contribution to the field. Also, please familiarize yourself with the information in the Call for Papers regarding the topics of the conference.
