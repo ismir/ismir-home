@@ -22,13 +22,13 @@ Please notify the Program Committee immediately if any issues arise regarding th
 
 You will be asked to provide an evaluation of the papers assigned to you according to the following criteria:
 
-- Novelty of the paper
 - Scholarly/scientific quality
+- Novelty of the paper
 - Reusable insights
-- Stimulation potential
-- Appropriateness of topic
-- Importance
+- Pioneering proposals
 - Readability and paper organization
+- Potential to generate discourse
+- Relevance of the topic to ISMIR
 
 Keep in mind that minor flaws can be corrected, and should not be a reason to reject a paper. However, accepted papers must be technically sound and make an original and substantial contribution to the field. Also, please familiarize yourself with the information in the Call for Papers regarding the topics of the conference.
 
