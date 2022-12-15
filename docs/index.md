@@ -22,8 +22,10 @@ More details on past conferences and links to the freely accessible proceedings 
 ### Upcoming Conferences
 
 * [ISMIR 2022](https://ismir2022.ismir.net/), December 4-8, Bengaluru, India
+* ISMIR 2023, Milano, Italy
+* ISMIR 2024, San Franisco, United States
 
-**We are [welcoming bids]({{site.base_url}}/pdfs/Call4Hosting-ISMIR-0.8.pdf) for 2023 and beyond.**
+**We are [welcoming bids]({{site.base_url}}/pdfs/Call4Hosting-ISMIR-0.8.pdf) for 2025 and beyond.**
 
 
 ## Transactions of the ISMIR
