@@ -24,6 +24,7 @@ the conference. Similarly, anonymous peer reviewers must follow the [reviewer gu
 
 | Conference | Location | Proceedings |
 | ---------- | --------- | --------- |
+| [ISMIR 2022](https://ismir2022.{{site.domain}}/) | 4-8 December 2022, Bengaluru (India) | tbd |
 | [ISMIR 2021](https://ismir2021.{{site.domain}}/) | 7-12 November 2021, Online | [Proceedings]({{site.base_url}}/conferences/ismir2021.html) |
 | [ISMIR 2020](https://ismir2020.{{site.domain}}/) | 11-15 October 2020, Montr&eacute;al (Canada) | [Proceedings]({{site.base_url}}/conferences/ismir2020.html) |
 | [ISMIR 2019](https://ismir2019.{{site.domain}}/) | 4-8 November 2019, Delft (Netherlands) | [Proceedings]({{site.base_url}}/conferences/ismir2019.html) |
