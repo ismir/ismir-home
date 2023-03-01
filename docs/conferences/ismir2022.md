@@ -7,7 +7,7 @@ title: ISMIR 2022
 
 **Full Proceedings**
 
-**[Proceedings of the 23nd International Society for Music Information Retrieval Conference](https://doi.org/10.5281/zenodo.7676768)**, Bengaluru, India, 4-8 Dec, 2022 (ISBN: 978-1-7327299-2-6) [[pdf](https://zenodo.org/record/7676768/files/2022_Proceedings_ISMIR.pdf)]
+**[Proceedings of the 23nd International Society for Music Information Retrieval (ISMIR) Conference](https://doi.org/10.5281/zenodo.7676768)**, Bengaluru, India, 4-8 Dec, 2022 (ISBN: 978-1-7327299-2-6) [[pdf](https://zenodo.org/record/7676768/files/2022_Proceedings_ISMIR.pdf)]
 
 | Papers |
 | --- |
