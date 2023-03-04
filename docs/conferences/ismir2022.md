@@ -1,4 +1,3 @@
-
 ---
 title: ISMIR 2022
 ---
@@ -11,7 +10,6 @@ title: ISMIR 2022
 
 | Papers |
 | --- |
-
 |Yixiao Zhang, Junyan Jiang, Gus Xia, Simon Dixon<br>**[Interpreting Song Lyrics with an Audio-Informed Pre-trained Language Model](https://doi.org/10.5281/zenodo.7316584)** 19-26 [[pdf](https://zenodo.org/api/files/19282e7b-5346-444a-aa27-2d1e2a3fd823/000001.pdf)]|
 |Tsung-Ping Chen, Li Su<br>**[Toward postprocessing-free neural networks for joint beat and downbeat estimation](https://doi.org/10.5281/zenodo.7342730)** 27-35 [[pdf](https://zenodo.org/api/files/a69c84c5-8e40-48a4-9b05-833b0cf2b088/000002.pdf)]|
 |Matan Gover, Oded Zewi<br>**[Music Translation: Generating Piano Arrangements in Different Playing Levels](https://doi.org/10.5281/zenodo.7316588)** 36-43 [[pdf](https://zenodo.org/api/files/5f34f365-4220-4fd4-be5a-c5d98a140269/000003.pdf)]|
