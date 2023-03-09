@@ -63,7 +63,7 @@ in [this document](https://docs.google.com/document/d/e/2PACX-1vSGoaFelpdZaLwoRP
 * **Treasurer**: Bob Sturm, KTH, Sweden
 * **Member-at-large**: Blair Kaneshiro, Stanford University, USA
 * **Member-at-large**: Justin Salamon, Adobe Research, USA
-* **Member-at-large**: Christof Weiss, International Audio Laboratories Erlangen, Germany
+* **Member-at-large**: Christof Weiss, University of Würzburg, Germany
 * **Student member**: Alia Morsi, Universitat Pompeu Fabra, Spain
 
 ### Officers (2020&ndash;2021)
