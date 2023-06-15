@@ -5,6 +5,7 @@ title: Research Centers
 ## [Resources]({{site.base_url}}/resources) / Research Centers
 
 Here is a list of research laboratories working on MIR problems.
+
 The entries are sorted first by alphabetical order of their country code, and secondly by group name.
 
 Please create a [pull request](https://github.com/ismir/ismir-home/pulls) to contribute to this list.
