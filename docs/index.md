@@ -21,7 +21,7 @@ More details on past conferences and links to the freely accessible proceedings 
 
 ### Upcoming Conferences
 
-* [ISMIR 2023, November 5-9, Milan, Italy](https://ismir2023.ismir.net)
+* [ISMIR 2023](https://ismir2023.ismir.net), November 5-9, Milan, Italy
 * ISMIR 2024, San Francisco Bay Area, United States
 
 **We are [welcoming bids]({{site.base_url}}/pdfs/Call4Hosting-ISMIR-0.8.pdf) for 2025 and beyond.**
