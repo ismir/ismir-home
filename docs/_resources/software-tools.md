@@ -83,6 +83,9 @@ The software are presented alphabetically. Additionally to the list of software 
   MATLAB implementations of various classical time-scale modification algorithms
   like OLA, WSOLA, and the phase vocoder, among more recent advances.
 
+[Music Recognition, Encoding, and Transcription](https://muret.dlsi.ua.es/muret/) |
+  Transcription assistance tool using Deep Learning techniques developed by the PRAIG group in Alicante. Digitize your manuscripts with ease.
+
 [YAAFE](http://yaafe.github.io/Yaafe/) |
   Low level feature extraction library designed for computational efficiency
   and batch processing. It is written in C++ and can be used with Python and Matlab.
