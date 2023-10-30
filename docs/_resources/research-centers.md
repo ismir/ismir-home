@@ -12,6 +12,7 @@ Please create a [pull request](https://github.com/ismir/ismir-home/pulls) to con
 
 | Name | Affiliation | Country code | Principal Investigator | Description |
 | --- | --- | --- | --- | --- |
+| [Laboratory of Computational Intelligence](http://labic.icmc.usp.br/) | [U. of São Paulo](https://www.usp.br/) and [Institute of Mathematics and Computer Sciences](https://www.icmc.usp.br/) | BR | Diego Furtado Silva | Research areas: MIR, Representation Learning, Multimodal approaches.
 | [Pattern Recognition and Artificial Intelligence Group (PRAIG)](https://praig.ua.es/) | [U. of Alicante](https://www.ua.es/) | ES | Jorge Calvo Zaragoza | Optical Music Recognition experts. MuRET tool developers. Research areas: OMR, Audio-to-Score, Multimodal approaches.
 [Music and Sound Cultures (MaSC)](https://masc.hosting.nyu.edu) | [New York University Abu Dhabi](https://nyuad.nyu.edu/en/) | AE | Carlos Guedes
 [Centre for Systematic Musicology](https://systematische-musikwissenschaft.uni-graz.at/) | [U. of Graz](https://www.uni-graz.at/en/) | AT | Richard Parncutt
