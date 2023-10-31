@@ -84,29 +84,54 @@ Once you've built the website and confirmed that it works, you can `scp` the sit
 scp -vr docs/_site/* username@your.host.com:~/destination/
 ```
 
-#### Automated Deployments on Travis-CI
+#### Automated Deployments using Github Actions
 
-This repository is currently configured to build **pull requests** and **commits to master**, and in the latter case, redeploy the build output (the static site) to web hosting. While this now makes redeployments easy, configuration was not exactly straightforward.
+This repository is currently configured to build **pull requests** and **commits to master**, and in the latter case, redeploy the build output (the static site) to web hosting.
 
 One can recreate this configuration as follows:
 
-0. Create a `.travis.yml` file.
-    1. If starting from the one in this repository, delete the `env:globals` and the `before_install` routine. We'll overwrite these below.
-    2. Otherwise, start from the Jekyll template here: https://jekyllrb.com/docs/continuous-integration/travis-ci/
-1. Create an SSH key-pair locally with `ssh-keygen`. Here they are called `id_rsa` (private key) and `id_rsa.pub` (public key)
-    1. The public key must be copied to the host, e.g. `ssh-copy-id -p 22 -i id_rsa.pub username@ip.add.ress.here`
-    2. The private key must be modified to eliminate the passphrase via `ssh-keygen -p -f id_rsa -N ''`
-2. We can now encrypt environment variables that will be used by `./deploy_production.sh`, a shell script that has been made executable (`chmod +x`)
-    1. We need to specify two env variables, `DEPLOY_HOST` and `DEPLOY_USER`, to access the host. This can be achieved by supplying this call with the right values from the repository root: `travis encrypt SOMEVAR="secretvalue" --add`
-    2. See the instructions here for complete details: https://docs.travis-ci.com/user/encryption-keys
-    3. Not that these encrypted values provide an extra layer of obfuscation to the location of the server, and are not strictly necessary – future configurations could provide this info as plaintext.
-3. We must encrypt the private key file so that the Travis-CI build context can copy the built website to the host.
-    1. The private key is encrypted with the following command, issued from the repository root: `travis encrypt-file id_rsa --add`
-    2. This will encrypt the file with a `.enc` suffix, and add an additional command to `before_install`. Add the encrypted file to the repository (NOT THE PRIVATE KEY) and commit both changes.
-    3. See the instructions here for complete details: https://docs.travis-ci.com/user/encrypting-files/
-4. The `./deploy_production` script takes a path to the private key to use for securely copying data to the host server. One can similarly use this script locally with appropriately configured SSH keys.
-    1. Note that `.travis.yml` is configured to only deploy on commits to master.
-    2. The ssh-agent must be kick-started before attempting to copy the website to the host.
+##### Authentication
+
+On the host where the site is going to be uploaded, create an ssh key pair
+
+    ssh-keygen -t ed25519
+
+Add the contents of the pub key (e.g. `.ssh/id_ed25519.pub`) to `.ssh/authorized_keys`
+
+Test that you can log in with this key without a password:
+
+    ssh -i ~/.ssh/id_ed25519 username@localhost
+
+In the Github interface, add the contents of the private key file (`.ssh/id_ed25519`) as an
+Actions Secret.
+For ISMIR, this would be at https://github.com/organizations/ismir/settings/secrets/actions
+You need to be an organisation administrator to view this page.
+
+* Add the private key file as secret named `WEBHOST_PRIVATE_KEY`
+* Add the host name of the webserver as a secret named `WEBHOST_HOST`
+* Add the username of the account on the webserver as a secret named `WEBHOST_USERNAME`
+
+Add the secrets with "Repository access" to "Selected repositories", and select this repository
+from the list.
+
+##### Actions workflow
+
+The main workflow file is `.github/workflows/deploy-ismir-website.yaml`
+
+The workflow has two main steps:
+
+1. Install Ruby and Jekyll, and build the site
+2. Copy the site to the webserver using rsync
+
+The site build step is based on publicly available actions at https://jekyllrb.com/docs/continuous-integration/github-actions/ and https://github.com/actions/starter-workflows/blob/b1df8a/pages/jekyll.yml
+
+The site copy step uses the [rsync-deployments-action](https://github.com/marketplace/actions/rsync-deployments-action). This step reads the webserver username, host, and private key from
+the secrets set up in the previous step.
+
+The action is configured to run when a push is made to the `master` branch (either when a pull
+request is merged, or a direct push). A list of historical runs of this action can be
+seen on the [actions page](https://github.com/ismir/ismir-home/actions).
+The action can be manually triggered by viewing the workflow and clicking the ["Run workflow"](https://github.com/ismir/ismir-home/actions/workflows/deploy-ismir-website.yaml) button.
 
 ## WTFs
 
