@@ -24,7 +24,7 @@ More details on past conferences and links to the freely accessible proceedings 
 * ISMIR 2024, November 10-14, San Francisco, CA, United States
 * ISMIR 2025, South Korea
 
-**We are [welcoming bids]({{site.base_url}}/pdfs/Call4Hosting-ISMIR-0.8.pdf) for 2026 and beyond.**
+**We are [welcoming bids]({{site.base_url}}/pdfs/Call4Hosting-ISMIR-0.9.pdf) for 2026 and beyond.**
 
 
 ## Transactions of the ISMIR
