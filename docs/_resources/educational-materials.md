@@ -13,6 +13,7 @@ The resources are sorted by decreasing year of publication. If you would like to
 
 ### MIR-Related Textbooks 
 
+* Brian McFee: [Digital Signals Theory.](https://www.routledge.com/Digital-Signals-Theory/McFee/p/book/9781032200507#) CRC Press, 2023.  ([online edition](https://brianmcfee.net/dstbook-site/content/intro.html))
 * Meinard M&uuml;ller: [Fundamentals of Music Processing &ndash; Using Python and Jupyter Notebooks.](http://www.music-processing.de/) 2n edition, Springer, 2021.<br>
   With [Python Code Examples (FMP Notebooks)](https://www.audiolabs-erlangen.de/FMP).
 * Peter Knees and Markus Schedl: [Music Similarity and Retrieval: An Introduction to Audio- and Web-based Strategies.](http://www.springer.com/us/book/9783662497203)  Springer, 2016
