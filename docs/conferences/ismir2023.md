@@ -6,7 +6,7 @@ title: ISMIR 2023
 
 **Full Proceedings**
 
-**[Proceedings of the 24th International Society for Music Information Retrieval Conference](https://doi.org/10.5281/zenodo.10364631)**, Milan, Italy, November 5-9, 2023 (ISBN: 978-1-7327299-3-3) [[pdf](https://zenodo.org/record/10364631/files/2023_Proceedings_ISMIR.pdf)]
+**[Proceedings of the 24th International Society for Music Information Retrieval Conference](https://doi.org/10.5281/zenodo.13916484)**, Milan, Italy, November 5-9, 2023 (ISBN: 978-1-7327299-3-3) [[pdf](https://zenodo.org/record/13916484/files/2023_Proceedings_ISMIR.pdf)]
 
 | Papers |
 | --- |
@@ -88,7 +88,7 @@ title: ISMIR 2023
 |Oren Barkan, Shlomi Shvartzman, Noy Uzrad, Moshe Laufer, Almog Elharar, Noam Koenigstein<br>**[Inversynth II: Sound Matching via Self-Supervised Synthesizer-Proxy and Inference-Time Finetuning](https://doi.org/10.5281/zenodo.10265371)** 642-648[[pdf](https://zenodo.org/record/10265371/files/000076.pdf)]|
 |Amantur Amatov, Dmitry Lamanov, Maksim Titov, Ivan Vovk, Ilya Makarov, Mikhail Kudinov<br>**[A Semi-Supervised Deep Learning Approach to Dataset Collection for Query-by-Humming Task](https://doi.org/10.5281/zenodo.10265375)** 649-656[[pdf](https://zenodo.org/record/10265375/files/000077.pdf)]|
 |Keren Shao, Ke Chen, Taylor Berg-Kirkpatrick, Shlomo Dubnov<br>**[Towards Improving Harmonic Sensitivity and Prediction Stability for Singing Melody Extraction](https://doi.org/10.5281/zenodo.10265373)** 657-663[[pdf](https://zenodo.org/record/10265373/files/000078.pdf)]|
-|Chin-Yun Yu, György Fazekas<br>**[Singing Voice Synthesis Using Differentiable LPC and Glottal-Flow-Inspired Wavetables](https://doi.org/10.5281/zenodo.10265377)** 667-675[[pdf](https://zenodo.org/record/10265377/files/000079.pdf)]|
+|Chin-Yun Yu, György Fazekas<br>**[Singing Voice Synthesis Using Differentiable LPC and Glottal-Flow-Inspired Wavetables](https://doi.org/10.5281/zenodo.13916489)** 667-675[[pdf](https://zenodo.org/record/13916489/files/000079.pdf)]|
 |Qiaoyu Yang, Frank Cwitkowitz, Zhiyao Duan<br>**[Harmonic Analysis With Neural Semi-CRF](https://doi.org/10.5281/zenodo.10265379)** 676-683[[pdf](https://zenodo.org/record/10265379/files/000080.pdf)]|
 |Alberto Acquilino, Ninad Puranik, Ichiro Fujinaga, Gary Scavone<br>**[A Dataset and Baseline for Automated Assessment of Timbre Quality in Trumpet Sound](https://doi.org/10.5281/zenodo.10265381)** 684-691[[pdf](https://zenodo.org/record/10265381/files/000081.pdf)]|
 |Frank Heyen, Quynh Quang Ngo, Michael Sedlmair<br>**[Visual Overviews for Sheet Music Structure](https://doi.org/10.5281/zenodo.10265383)** 692-699[[pdf](https://zenodo.org/record/10265383/files/000082.pdf)]|
