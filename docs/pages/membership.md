@@ -15,8 +15,11 @@ As a non-profit organization, the society relies on membership dues to cover ope
 
 ### Becoming a Member
 
-So you've decided to join the society? That's fantastic news! Follow these
-simple steps to make it official:
+So you've decided to join the society? That's fantastic news!
+
+If you are attending the annual ISMIR conference, the registration free already includes one year membership to the society. 
+
+If you are not attending ISMIR conference and wish to join the society as a member, please follow these simple steps to pay your membership fee:
 
 1. Go to the [membership portal](https://www.softconf.com/f/ismir-member)
 2. Choose "For participants: Click HERE to register as a participant to the event."
