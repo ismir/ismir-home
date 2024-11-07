@@ -35,7 +35,7 @@ ISMIR was incorporated in Canada on July 4, 2008. It was previously run by a Ste
 
 ### Organizing Documents
 
-* [Conference Hosting Proposal Guide]({{site.base_url}}/pdfs/Call4Hosting-ISMIR-0.8.pdf)
+* [Conference Hosting Proposal Guide]({{site.base_url}}/pdfs/Call4Hosting-ISMIR-0.9.pdf)
 * [Letters Patent]({{site.base_url}}/pdfs/ISMIR-Letters-Patent.pdf)
 * [By-Laws]({{site.base_url}}/pdfs/ISMIR-Bylaws.pdf)
 
@@ -56,6 +56,18 @@ ISMIR was incorporated in Canada on July 4, 2008. It was previously run by a Ste
 Descriptions of individual board members' responsibilities are found
 in [this document](https://docs.google.com/document/d/e/2PACX-1vSGoaFelpdZaLwoRPzFmgBBubCVtU7mVS4aMjtjT_Xl5P3yayNje3Uzfnl8amZ9Zywo65siId02jQ0N/pub).´
 
+### Officers (2024&ndash;2025)
+
+* **President**: Zhiyao Duan, University of Rochester, USA
+* **President-elect**: Justin Salamon, Adobe Research, USA
+* **Secretary**: Emmanouil Benetos, Queen Mary University of London, UK
+* **Treasurer**: Bob Sturm, KTH, Sweden
+* **Member-at-large**: Claire Arthur, Georgia Tech, USA
+* **Member-at-large**: Carlos Cancino-Chacón, Johannes Kepler University Linz, Austria
+* **Member-at-large**: Elio Quinton, Universal Music Group, UK
+* **Student member**: Shuqi Dai, Carnegie Mellon University, USA
+* **Tech Lead**: Ajay Srinivasamurthy, Amazon AGI, India
+  
 ### Officers (2022&ndash;2023)
 
 * **President**: Geoffroy Peeters, Télécom ParisTech, France
