@@ -25,7 +25,7 @@ Please create a [pull request](https://github.com/ismir/ismir-home/pulls) to con
 [Distributed Digital Music Archives & Libraries Lab (DDMAL)](http://ddmal.music.mcgill.ca/) | [McGill U.](https://www.mcgill.ca/) | CA | Ichiro Fujinaga
 [Mistic](https://www.mistic.ece.uvic.ca) | [University of Victoria](https://www.uvic.ca/) | CA | George Tzanetakis
 [Digital and Cognitive Musicology Lab (DCML)](https://www.epfl.ch/labs/dcml) | [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/) | CH | Martin Rohrmeier
-[Music X Lab](http://www.musicxlab.com) | [NYU Shanghai](https://shanghai.nyu.edu/) | CN | Gus Xia
+[Music X Lab](http://www.musicxlab.com) | [MBZUAI](https://mbzuai.ac.ae/) | UAE | Gus Xia
 BLACK BOX | [German Research Center for AI (DFKI)](https://www.dfki.de/en/web) | DE | Stephan Baumann
 [Gotham Lab](https://www.musik.tu-dortmund.de/institut/personen/professorinnen-und-professoren/univ-prof-dr-phil-mark-r-h-gotham/) | [T.U. Dortmund](https://www.tu-dortmund.de/) | DE | Mark Gotham
 [Institute for Music Informatics and Musicology](https://www.hfm-karlsruhe.de/en/university/institutes/institute-music-informatics-and-musicology) | [U. of Music, Karlsruhe](https://www.hfm-karlsruhe.de/en) | DE | Thomas Seedorf
@@ -71,6 +71,7 @@ Institute of Music Science and Engineering | [King Mongkut's Institute of Techno
 [Center for Music Technology (GTCMT)](http://www.gtcmt.gatech.edu/) | Georgia Tech | USA | Gil Weinberg
 [Cognitive and Systematic Musicology Laboratory (CSML)](https://www.asc.ohio-state.edu/music/csml/home/index.php/Home) | Ohio State U. | USA | David Huron
 [Computer Music Lab](https://www.cs.cmu.edu/~music) | [Cargenie Mellon University](https://www.cmu.edu/) | USA | Roger B. Dannenberg
+[Generative Creativity Lab (G-CLef)](https://chrisdonahue.com/) | [Cargenie Mellon University](https://www.cmu.edu/) | USA | Chris Donahue
 [Interactive Audio Lab](https://interactiveaudiolab.github.io/) | [Northwestern U.](https://www.northwestern.edu/) | USA | Bryan Pardo
 International Music Information Retrieval Systems Evaluation Laboratory (IMIRSEL), [School of Information Sciences](https://ischool.illinois.edu/) | U. of Illinois at Urbana-Champaign (UIUC) | USA | J. Stephen Downie |
 [JimiLab](https://dougturnbull.org/index.php/jimilab/) | [Ithaca College](https://www.ithaca.edu/) | USA | Doug Turnbull
@@ -80,3 +81,4 @@ International Music Information Retrieval Systems Evaluation Laboratory (IMIRSEL
 [Music Engagement Research Initiative (MERI)](https://ccrma.stanford.edu/groups/meri) | [Stanford University](https://www.stanford.edu/) | USA | Jonathan Berger (PI), Chris Chafe
 [Music Informatics Group](https://musicinformatics.gatech.edu/) | [Georgia Tech School of Music](https://www.music.gatech.edu/) | USA | Alexander Lerch | Research on audio content analysis and machine learning for music as part of the MS and PhD programs in Music Technology at Georgia Tech.
 Sound Interaction and Computing (SInC) Lab | [New Jersey Institute of Technology](https://www.njit.edu/) | USA | Mark Cartwright
+[MIT Music Technology](https://musictech.mit.edu/postdoctoral-opportunities/) | [Massachusetts Institute of Technology](https://www.mit.edu/) | USA | Anna Huang
