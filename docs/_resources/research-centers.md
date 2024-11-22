@@ -44,7 +44,7 @@ Semantic Music Technologies | [Fraunhofer Institute for Digital Media Technology
 [Centre d'Études Supérieures de la Renaissance (CESR)](https://cesr.cnrs.fr/) | U. de Tours | FR | |
 [Institut de Recherche et Coordination Acoustique / Musique (IRCAM)](http://www.ircam.fr/) | Paris | FR | Frank Madlener |
 [IReMus](http://www.iremus.cnrs.fr/) | Paris | FR | |
-[Institut de Recherche en Informatique de Toulouse (IRIT)](https://www.irit.frx/) | Toulouse | FR | | The [SAMoVA](https://www.irit.fr/recherches/SAMOVA/pagehome.html) team focuses its research activities mainly on audiovisual content structuring, analysis and modeling. The [MELODI](https://www.irit.fr/-Equipe-MELODI-) team focuses on natural language processing.
+[Institut de Recherche en Informatique de Toulouse (IRIT)](https://www.irit.fr/) | Toulouse | FR | | The [SAMoVA](https://www.irit.fr/recherches/SAMOVA/pagehome.html) team focuses its research activities mainly on audiovisual content structuring, analysis and modeling. The [MELODI](https://www.irit.fr/-Equipe-MELODI-) team focuses on natural language processing.
 [Laboratoire Bordelais de Recherche en Informatique (LaBRI)](http://www.labri.fr/) and [Studio de Création Musical (SCRIME)](http://www.scrime.labri.fr/) | Bordeaux | FR | | Part of the French CNRS. The first research interest implies music information retrieval for enhancing music recommendations and automatic playlist creation. The second research interest involve creating new ways to play music interactively which is supported in the free and open-source intermedia sequencer [i-score](https://i-score.org/).
 [Laboratory of Digital Sciences of Nantes (LS2N)](https://www.ls2n.fr/presentation/?lang=en) | [The French National Center for Scientific Research (CNRS)](https://www.cnrs.fr/en/cnrs) | FR | Mathieu Lagrange, Vincent Lostanlen
 McDermott Group | [School of Computer Science, University of Galway](https://www.universityofgalway.ie/science-engineering/school-of-computer-science/) | IE | [James McDermott](http://www.jmmcd.net/research) | Generative music, evolutionary algorithms, music information retrieval, traditional music.
@@ -90,4 +90,3 @@ International Music Information Retrieval Systems Evaluation Laboratory (IMIRSEL
 Sound Interaction and Computing (SInC) Lab | [New Jersey Institute of Technology](https://www.njit.edu/) | USA | Mark Cartwright
 [MIT Music Technology](https://musictech.mit.edu/postdoctoral-opportunities/) | [Massachusetts Institute of Technology](https://www.mit.edu/) | USA | Anna Huang
 [COSMAL](http://dub.ucsd.edu/) | [University of California San Diego](https://ucsd.edu/) | USA | Shlomo Dubnov
-
