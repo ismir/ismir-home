@@ -24,7 +24,8 @@ title: ISMIR 2001
 |Andreas Kornstädt<br>**[The JRing System for Computer-Assisted Musicological Analysis.](https://doi.org/10.5281/zenodo.1416100)**  [[pdf](https://archives.ismir.net/ismir2001/paper/000011.pdf)]|
 |Adam Lindsay, Youngmoo Kim<br>**[Adventures in Standardization, or How We Learned to Stop Worrying and Love MPEG-7.](https://doi.org/10.5281/zenodo.1418071)**  [[pdf](None)]|
 |Colin Meek<br>**[Thematic Extractor.](https://doi.org/10.5281/zenodo.1414828)**  [[pdf](https://archives.ismir.net/ismir2001/paper/000012.pdf)]|
-|Takuichi Nishimura<br>**[Music Signal Spotting Retrieval by a Humming Query Using Start Frame Feature Dependent Continuous Dynamic Programming.](https://doi.org/10.5281/zenodo.1417191)**  [[pdf](https://archives.ismir.net/ismir2001/paper/000013.pdf)]|
+|Takuichi Nishimura, Hiroki Hashiguchi, Junko Takita, J. Xin Zhang, Masataka Goto, and Ryuichi Oka
+<br>**[Music Signal Spotting Retrieval by a Humming Query Using Start Frame Feature Dependent Continuous Dynamic Programming.](https://doi.org/10.5281/zenodo.1417191)**  [[pdf](https://archives.ismir.net/ismir2001/paper/000013.pdf)]|
 |Donncha Ó Maidín<br>**[Score Processing For MIR.](https://doi.org/10.5281/zenodo.1416442)**  [[pdf](https://archives.ismir.net/ismir2001/paper/000014.pdf)]|
 |François Pachet<br>**[A Naturalist Approach to Music File Name Analysis.](https://doi.org/10.5281/zenodo.1415856)**  [[pdf](https://archives.ismir.net/ismir2001/paper/000015.pdf)]|
 |Emanuele Pollastri<br>**[An Audio Front End for Query-by-Humming Systems.](https://doi.org/10.5281/zenodo.1415056)**  [[pdf](None)]|
