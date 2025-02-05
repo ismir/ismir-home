@@ -24,7 +24,7 @@ More details on past conferences and links to the freely accessible proceedings 
 * [ISMIR 2025](https://ismir2025.ismir.net), September 21-25, Daejeon, South Korea
 * ISMIR 2026, Abu Dhabi, UAE
 
-**We are [welcoming bids]({{site.base_url}}/pdfs/Call4Hosting-ISMIR-0.9.pdf) for 2026 and beyond.**
+**We are [welcoming bids]({{site.base_url}}/pdfs/Call4Hosting-ISMIR-0.9.pdf) for 2027 and beyond.**
 
 
 ## Transactions of the ISMIR
