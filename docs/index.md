@@ -7,8 +7,8 @@ permalink: /
 
 The International Society for Music Information Retrieval (ISMIR) is a non-profit
 organisation seeking to advance research in the field of music information retrieval (MIR)&mdash;a field that 
-aims at developing computational tools for processing, searching, organizing, and accessing music-related data.
-Among other things, the ISMIR society fosters the exchange of ideas and activities among its members,
+aims to develop computational tools for processing, searching, organizing, and accessing music-related data.
+Among other activities, the ISMIR society fosters the exchange of ideas and activities among its members,
 stimulates research and education in MIR, 
 supports and encourages diversity in membership and disciplines, and 
 oversees the organisation of the annual [ISMIR conference]({{site.base_url}}/conferences). 
@@ -43,16 +43,16 @@ Between conferences, there are multiple ways to stay involved!
     Since its inception in 2000, the ISMIR community mailing list has grown into
     a forum of over 1,800 members from across the world, and routinely
     receives announcements about conferences, career opportunities, concerts,
-    and wide variety of other issues relevant to music information retrieval.
+    and wide variety of other topics relevant to music information retrieval.
     
- * [Get involved with Women in MIR (WiMIR) Group.](https://groups.google.com/forum/#!forum/wimir)<br>
+ * [Get involved with Women in MIR (WiMIR) group.](https://groups.google.com/forum/#!forum/wimir)<br>
     Despite the expanding reach of science and technology, there remains a stark
     imbalance between the number of female and male researchers in those fields.
-    Regardless of gender or orientation, the WiMIR group is comprised of those interested
+    Regardless of gender or orientation, the WiMIR group is made up of individuals interested
     in taking a more active role in building a better support system, improving
     visibility, and ultimately creating a better environment for women in MIR.
     More details on WiMIR and its activities can be [found here](https://wimir.wordpress.com/).
     
 * [Join the conversation on Slack.](https://slackpass.io/mircommunity)<br>
-    Slack is a new way to chat and to gather a community. There are currently more than 400
-    people on the Music Information Retrieval Slack's channel, come join the discussion.
+    Slack is a new way to chat and build community. There are currently more than 400
+    people on the Music Information Retrieval Slack channel, come join the discussion.
