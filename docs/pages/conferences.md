@@ -6,20 +6,20 @@ permalink: /conferences/
 ## Previous Conferences
 
 Each year, the ISMIR conference is held in a different corner of the world
-to motivate the presentation and exchange of ideas and innovations related to
+to encourage the presentation and exchange of ideas and innovations related to
 the intentionally broad topic of music information. Historically, the call for
-papers (CFP) is announced in the beginning of the year (February-May) via the
+papers (CFP) is announced at the beginning of the year (February-May) via the
 community mailing list, and conferences are held several months later (August-November).
 
-With the exception of the scientific proceedings, the format of the conference
-varies slightly from year to year; the local organizers are encouraged to leave
+Except for the scientific proceedings, the conference format varies slightly
+from year to year; the local organizers are encouraged to leave
 their unique mark on the conference, and the greater society is continually
 experimenting and improving upon the event.
 
 The open exchange of ideas and respectful, harassment-free scientific debate are
 central to ISMIR. In their application, conference organisers must agree in writing
-with the [code-of-conduct](http://confcodeofconduct.com). They must
-also agree to publish it on the conference website, and to enforce it throughout
+with the [code of conduct](http://confcodeofconduct.com). They must
+also agree to publish it on the conference website, and enforce it throughout
 the conference. Similarly, anonymous peer reviewers must follow the [reviewer guidelines]({{site.base_url}}/reviewer-guidelines/) when evaluating paper submissions.
 
 | Conference | Location | Proceedings |
