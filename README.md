@@ -1,5 +1,7 @@
 # ismir-home
 
+# $${\color{red}This repo is deprecated and no longer hosts ISMIR website. The pull requests on this repo are no longer monitored. Please use the contact forms on ISMIR website ([http://ismir.net/contact](http://ismir.net/contact)) to make any contributions or change requests.}$$
+
 Jekyll version of the ISMIR Homepage
 
 [![Build Status](https://travis-ci.com/ismir/ismir-home.svg?branch=master)](https://travis-ci.com/ismir/ismir-home)
